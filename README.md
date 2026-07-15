@@ -13,7 +13,9 @@ Open `index.html` in any modern browser. No installation or build step is requir
 - Email-only contact
 - Region pages for the UK, Switzerland/Europe, United States, Australia and Asia
 - IGCSE revision article
-- Searchable Learning Hub with free and planned premium resource categories
+- Searchable Learning Hub with free resources and a premium academic planner catalogue
+- Four premium planner listings with launch prices and safe checkout placeholders
+- Reusable `products.js` catalogue for adding future planners without rebuilding the page
 - Reusable blog publishing system with individual SEO-ready article pages
 - First article for Year 10 to Year 11 Foundation GCSE students
 - About Us navigation with experience, qualifications and verified parent feedback
@@ -35,6 +37,9 @@ The testimonials page includes only genuine feedback already supplied to the pro
 - `styles.css` — design and responsive layout
 - `pages.css` — shared layouts for country pages, article and privacy page
 - `learning-hub.html` — searchable free and premium resource directory
+- `premium-planners.html` — premium planner catalogue and prices
+- `products.js` and `products.css` — reusable planner data and product design
+- `PRODUCT-INSTRUCTIONS.md` — simple instructions for adding future planners
 - `testimonials.html` — verified parent feedback and review policy
 - `blog.html` — automatically generated blog index
 - `content/blog/` — the editable article files and reusable article template
@@ -46,3 +51,5 @@ The testimonials page includes only genuine feedback already supplied to the pro
 - `assets/` — favicon and social sharing image
 
 To publish another article, follow `BLOG-INSTRUCTIONS.md`. Edit a copied Markdown template, then run `BUILD_BLOG.bat`; do not manually edit the generated article HTML.
+
+To add another premium planner, follow `PRODUCT-INSTRUCTIONS.md`. Keep paid PDF files outside this public repository and place only product previews and secure checkout links on the website.
