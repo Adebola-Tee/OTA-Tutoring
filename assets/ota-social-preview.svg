@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#faf9f6"/>
+      <stop offset="0.58" stop-color="#eeeafa"/>
+      <stop offset="1" stop-color="#e1f5ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1100" cy="80" r="240" fill="none" stroke="#8f87dc" stroke-opacity=".24" stroke-width="2"/>
+  <circle cx="1100" cy="80" r="170" fill="none" stroke="#8f87dc" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="70" cy="620" r="220" fill="#bcebdc" fill-opacity=".5"/>
+  <rect x="85" y="74" width="76" height="76" rx="23" fill="#bcebdc"/>
+  <path d="M101 128V96c12-5 22-3 30 6v34c-8-9-18-12-30-8Zm44 0V96c-12-5-22-3-30 6v34c8-9 18-12 30-8Zm-22-26v34" fill="none" stroke="#14213f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="185" y="108" fill="#14213f" font-family="Georgia, serif" font-size="42" font-weight="700">OTA Tutoring</text>
+  <text x="185" y="139" fill="#617089" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">GUIDED LEARNING. LASTING PROGRESS.</text>
+  <text x="84" y="278" fill="#14213f" font-family="Georgia, serif" font-size="69">Learn with clarity.</text>
+  <text x="84" y="354" fill="#8f87dc" font-family="Georgia, serif" font-size="69" font-style="italic">Grow with confidence.</text>
+  <text x="88" y="418" fill="#53627a" font-family="Arial, sans-serif" font-size="23">International online tutoring for GCSE, IGCSE, IB,</text>
+  <text x="88" y="452" fill="#53627a" font-family="Arial, sans-serif" font-size="23">A-Level, SAT and international-school learners.</text>
+  <rect x="88" y="501" width="180" height="48" rx="24" fill="#14213f"/>
+  <text x="178" y="532" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="700">BOOK A FREE CALL</text>
+  <rect x="290" y="501" width="370" height="48" rx="24" fill="#ffffff" fill-opacity=".8" stroke="#d5d1ec"/>
+  <text x="475" y="532" text-anchor="middle" fill="#14213f" font-family="Arial, sans-serif" font-size="15" font-weight="700">MATHS • SCIENCE • ENGLISH • CODING</text>
+</svg>
