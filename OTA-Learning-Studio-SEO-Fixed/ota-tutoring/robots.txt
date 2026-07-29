@@ -1,4 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
 Sitemap: https://otalearningstudio.com/sitemap.xml
+

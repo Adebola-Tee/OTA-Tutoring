@@ -1,4 +1,4 @@
----
+﻿---
 title: Why this summer matters more than you think for Year 10 to Year 11 students especially Foundation GCSE students
 seo_title: Summer study for Year 10 to Year 11 GCSE students
 description: Why Year 10 students moving into Year 11, especially Foundation GCSE learners, benefit from a simple and consistent summer study routine.
@@ -26,7 +26,7 @@ This is especially important for Foundation GCSE students.
 
 Foundation students need consistency and it is not about intensity. That consistency can begin during the summer break.
 
-It does not mean attending classes every day or studying for several hours. Even one hour of online tutoring each week for a subject of concern is enough to maintain momentum. The lesson can be relaxed and focused on revisiting important topics, correcting misunderstandings and keeping the student’s brain active.
+It does not mean attending classes every day or studying for several hours. Even one hour of online tutoring each week for a subject of concern is enough to maintain momentum. The lesson can be relaxed and focused on revisiting important topics, correcting misunderstandings and keeping the studentâ€™s brain active.
 
 Personal reading does not have to be stressful either.
 
@@ -45,3 +45,4 @@ Year 11 already comes with its own pressure. Maintaining a simple learning routi
 It does not have to be intense.
 
 One hour of tutoring each week and a few minutes of personal reading may be all that is needed to keep the momentum going.
+

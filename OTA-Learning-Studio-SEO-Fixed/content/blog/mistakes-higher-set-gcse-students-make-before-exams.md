@@ -1,4 +1,4 @@
----
+﻿---
 title: The Mistake I Keep Seeing Higher Set GCSE Students Make Before Their Exams
 seo_title: Mistakes Higher Set GCSE Students Make Before Exams
 description: Learn the common mistakes Higher Set GCSE students make before their exams and how early preparation can improve confidence and performance.
@@ -32,7 +32,7 @@ But being in the Higher tier does not mean basic questions disappear.
 
 I remember asking one student a very simple question.
 
-**What is 5⁰?**
+**What is 5â°?**
 
 The answer I got was **5**.
 
@@ -73,4 +73,5 @@ That way, when the examination is close, your focus is no longer on trying to re
 Your focus becomes answering questions with confidence.
 
 That is a much better place to be.
+
 

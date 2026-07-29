@@ -1,4 +1,4 @@
-# OTA Learning Studio Website
+﻿# OTA Learning Studio Website
 
 A responsive multi-page tutoring website built in the **Guided Momentum** visual direction.
 
@@ -33,32 +33,33 @@ The SEO files currently use `https://otalearningstudio.com` as the planned websi
 
 The pricing section intentionally does not invent lesson prices. It lists the supported currencies and explains that the exact rate is confirmed after consultation. Add approved rates only after the business owner chooses them.
 
-The testimonials page includes only genuine feedback already supplied to the project, with the parent’s name withheld for privacy. Add more quotations only after the wording is verified and public-use permission is confirmed.
+The testimonials page includes only genuine feedback already supplied to the project, with the parentâ€™s name withheld for privacy. Add more quotations only after the wording is verified and public-use permission is confirmed.
 
 ## Files
 
-- `index.html` — website content and structure
-- `styles.css` — design and responsive layout
-- `pages.css` — shared layouts for country pages, article and privacy page
-- `learning-hub.html` — searchable free and premium resource directory
-- `premium-planners.html` — premium planner catalogue and prices
-- `products.js` and `products.css` — reusable planner data and product design
-- `PRODUCT-INSTRUCTIONS.md` — simple instructions for adding future planners
-- `shop.html` — the main digital shop and three-category directory
-- `ebooks.html` — reusable e-book catalogue
-- `planners-templates.html` — reusable general planners and templates catalogue
-- `shop-products.js` and `shop.css` — editable shop data and responsive product styling
-- `SHOP-INSTRUCTIONS.md` — instructions for adding future e-books, planners, templates and Selar links
-- `testimonials.html` — verified parent feedback and review policy
-- `blog.html` — automatically generated blog index
-- `content/blog/` — the editable article files and reusable article template
-- `generate_blog.py` and `BUILD_BLOG.bat` — automatic blog page and sitemap builder
-- `BLOG-INSTRUCTIONS.md` — simple instructions for publishing future articles
-- `blog.css` — responsive blog listing and article styling
-- `script.js` — mobile navigation, accessible dropdowns, resource search and scroll effects
-- `robots.txt` and `sitemap.xml` — search-engine discovery files
-- `assets/` — favicon and social sharing image
+- `index.html` â€” website content and structure
+- `styles.css` â€” design and responsive layout
+- `pages.css` â€” shared layouts for country pages, article and privacy page
+- `learning-hub.html` â€” searchable free and premium resource directory
+- `premium-planners.html` â€” premium planner catalogue and prices
+- `products.js` and `products.css` â€” reusable planner data and product design
+- `PRODUCT-INSTRUCTIONS.md` â€” simple instructions for adding future planners
+- `shop.html` â€” the main digital shop and three-category directory
+- `ebooks.html` â€” reusable e-book catalogue
+- `planners-templates.html` â€” reusable general planners and templates catalogue
+- `shop-products.js` and `shop.css` â€” editable shop data and responsive product styling
+- `SHOP-INSTRUCTIONS.md` â€” instructions for adding future e-books, planners, templates and Selar links
+- `testimonials.html` â€” verified parent feedback and review policy
+- `blog.html` â€” automatically generated blog index
+- `content/blog/` â€” the editable article files and reusable article template
+- `generate_blog.py` and `BUILD_BLOG.bat` â€” automatic blog page and sitemap builder
+- `BLOG-INSTRUCTIONS.md` â€” simple instructions for publishing future articles
+- `blog.css` â€” responsive blog listing and article styling
+- `script.js` â€” mobile navigation, accessible dropdowns, resource search and scroll effects
+- `robots.txt` and `sitemap.xml` â€” search-engine discovery files
+- `assets/` â€” favicon and social sharing image
 
 To publish another article, follow `BLOG-INSTRUCTIONS.md`. Edit a copied Markdown template, then run `BUILD_BLOG.bat`; do not manually edit the generated article HTML.
 
 To add another premium planner, follow `PRODUCT-INSTRUCTIONS.md`. Keep paid PDF files outside this public repository and place only product previews and secure checkout links on the website.
+

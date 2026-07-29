@@ -1,4 +1,4 @@
-# How to add e-books, planners and templates
+﻿# How to add e-books, planners and templates
 
 The two shop catalogues are controlled from `shop-products.js`.
 
@@ -16,6 +16,7 @@ The two shop catalogues are controlled from `shop-products.js`.
 
 Follow the same steps, but copy a product block inside the `general` list and refresh `planners-templates.html`.
 
-When `checkoutUrl` is empty, the website displays “Purchase setup coming soon”. Once the Selar link is added, the button automatically changes to “Buy on Selar”. Every product must have its own Selar link.
+When `checkoutUrl` is empty, the website displays â€œPurchase setup coming soonâ€. Once the Selar link is added, the button automatically changes to â€œBuy on Selarâ€. Every product must have its own Selar link.
 
 The catalogue automatically displays eight products per desktop page in two columns and four rows. If you add more than eight products, numbered page buttons and Previous/Next controls appear automatically. You do not need to edit the pagination.
+

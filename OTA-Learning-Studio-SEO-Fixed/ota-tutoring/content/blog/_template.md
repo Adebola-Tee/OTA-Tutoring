@@ -1,4 +1,4 @@
----
+﻿---
 title: Put your article title here
 seo_title: Write a shorter Google title using the article's main search phrase
 description: Write one clear sentence explaining what the article helps the reader understand.
@@ -22,3 +22,4 @@ Continue the article here.
 - Add another point like this
 
 Finish your article here.
+

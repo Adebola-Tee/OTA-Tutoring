@@ -1,4 +1,4 @@
-# How to publish a new blog article
+﻿# How to publish a new blog article
 
 You do not need to design another HTML page. The website will create it for you.
 
@@ -21,7 +21,7 @@ The builder automatically:
 - adds the title, description, author, date and structured data;
 - updates `sitemap.xml`.
 
-Do not edit the generated files inside the `blog` folder. Make corrections in the article’s `.md` file and run `BUILD_BLOG.bat` again.
+Do not edit the generated files inside the `blog` folder. Make corrections in the articleâ€™s `.md` file and run `BUILD_BLOG.bat` again.
 
 ## Writing options inside an article
 
@@ -32,3 +32,4 @@ Do not edit the generated files inside the `blog` folder. Make corrections in th
 - Bold text is placed between two asterisks on both sides: `**important text**`.
 
 The filename must not contain spaces, capital letters or special characters. Hyphens are used only in the filename and website address, not in the visible article title.
+

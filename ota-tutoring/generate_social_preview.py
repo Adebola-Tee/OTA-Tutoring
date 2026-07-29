@@ -1,4 +1,4 @@
-from pathlib import Path
+﻿from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
@@ -53,6 +53,7 @@ draw.text((88, 451), "A-Level, SAT and international-school learners.", fill="#5
 draw.rounded_rectangle((88, 510, 284, 558), radius=24, fill=navy)
 draw.text((186, 534), "BOOK A FREE CALL", anchor="mm", fill="white", font=font("DejaVuSans-Bold.ttf", 15))
 draw.rounded_rectangle((302, 510, 697, 558), radius=24, fill=(255, 255, 255, 205), outline=(213, 209, 236, 255), width=1)
-draw.text((500, 534), "MATHS • SCIENCE • ENGLISH • CODING", anchor="mm", fill=navy, font=font("DejaVuSans-Bold.ttf", 14))
+draw.text((500, 534), "MATHS â€¢ SCIENCE â€¢ ENGLISH â€¢ CODING", anchor="mm", fill=navy, font=font("DejaVuSans-Bold.ttf", 14))
 
 image.save(ROOT / "assets" / "ota-social-preview.png", optimize=True)
+

@@ -1,4 +1,4 @@
-# How to add another premium planner
+﻿# How to add another premium planner
 
 The planner catalogue is controlled from `products.js`.
 
@@ -10,6 +10,7 @@ The planner catalogue is controlled from `products.js`.
 6. Paste the secure checkout link between the quotation marks after `checkoutUrl:`.
 7. Save the file and refresh `premium-planners.html`.
 
-When `checkoutUrl` is empty, the website automatically displays “Purchase setup coming soon”. Once a secure checkout link is added, it automatically becomes a working “Buy now” button.
+When `checkoutUrl` is empty, the website automatically displays â€œPurchase setup coming soonâ€. Once a secure checkout link is added, it automatically becomes a working â€œBuy nowâ€ button.
 
 Paid PDFs must be delivered by the checkout platform after payment. Uploading the full PDFs directly to this public repository would allow anyone to download them without paying.
+
