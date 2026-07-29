@@ -78,6 +78,70 @@ document.querySelectorAll('[data-year]').forEach((element) => {
   element.textContent = new Date().getFullYear();
 });
 
+const storyCarousel = document.querySelector('[data-story-carousel]');
+const storyCards = [...document.querySelectorAll('[data-story-card]')];
+const storyDots = document.querySelector('[data-story-dots]');
+const storyStatus = document.querySelector('[data-story-status]');
+const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+let activeStory = 0;
+let storyTimer;
+
+const showStory = (index, announce = true) => {
+  if (!storyCards.length) return;
+  activeStory = (index + storyCards.length) % storyCards.length;
+  storyCards.forEach((card, cardIndex) => {
+    const isActive = cardIndex === activeStory;
+    card.classList.toggle('is-active', isActive);
+    card.setAttribute('aria-hidden', String(!isActive));
+  });
+  storyDots?.querySelectorAll('button').forEach((dot, dotIndex) => {
+    const isActive = dotIndex === activeStory;
+    dot.classList.toggle('is-active', isActive);
+    dot.setAttribute('aria-current', isActive ? 'true' : 'false');
+  });
+  if (announce && storyStatus) {
+    const name = storyCards[activeStory].querySelector('footer strong')?.textContent;
+    storyStatus.textContent = `Showing ${name}'s learning progress, ${activeStory + 1} of ${storyCards.length}.`;
+  }
+};
+
+const stopStoryTimer = () => window.clearInterval(storyTimer);
+const startStoryTimer = () => {
+  stopStoryTimer();
+  if (!storyCards.length || reduceMotion.matches) return;
+  storyTimer = window.setInterval(() => showStory(activeStory + 1, false), 5200);
+};
+
+if (storyCards.length && storyDots) {
+  storyCards.forEach((card, index) => {
+    const name = card.querySelector('footer strong')?.textContent || `Story ${index + 1}`;
+    const dot = document.createElement('button');
+    dot.type = 'button';
+    dot.setAttribute('aria-label', `Show ${name}'s progress`);
+    dot.addEventListener('click', () => {
+      showStory(index);
+      startStoryTimer();
+    });
+    storyDots.append(dot);
+  });
+  showStory(0, false);
+  startStoryTimer();
+}
+
+document.querySelector('[data-story-previous]')?.addEventListener('click', () => {
+  showStory(activeStory - 1);
+  startStoryTimer();
+});
+document.querySelector('[data-story-next]')?.addEventListener('click', () => {
+  showStory(activeStory + 1);
+  startStoryTimer();
+});
+storyCarousel?.addEventListener('mouseenter', stopStoryTimer);
+storyCarousel?.addEventListener('mouseleave', startStoryTimer);
+storyCarousel?.addEventListener('focusin', stopStoryTimer);
+storyCarousel?.addEventListener('focusout', startStoryTimer);
+reduceMotion.addEventListener?.('change', startStoryTimer);
+
 const resourceSearch = document.querySelector('[data-resource-search]');
 const resourceItems = [...document.querySelectorAll('[data-resource-item]')];
 const noResourceResults = document.querySelector('[data-resource-empty]');

@@ -43,7 +43,7 @@ draw.line((123, 102, 123, 136), fill="#14213f", width=3)
 navy = "#14213f"
 muted = "#617089"
 lavender = "#8f87dc"
-draw.text((185, 75), "OTA Tutoring", fill=navy, font=font("DejaVuSerif-Bold.ttf", 42))
+draw.text((185, 75), "OTA Learning Studio", fill=navy, font=font("DejaVuSerif-Bold.ttf", 42))
 draw.text((185, 126), "GUIDED LEARNING. LASTING PROGRESS.", fill=muted, font=font("DejaVuSans-Bold.ttf", 14))
 draw.text((84, 240), "Learn with clarity.", fill=navy, font=font("DejaVuSerif.ttf", 67))
 draw.text((84, 322), "Grow with confidence.", fill=lavender, font=font("DejaVuSerif.ttf", 67))

@@ -35,18 +35,47 @@ const plannerProducts = [
 
 const productGrid = document.querySelector('[data-product-grid]');
 if (productGrid) {
+  const productsPerPage = 8;
+  const totalPages = Math.ceil(plannerProducts.length / productsPerPage);
+  let currentPage = 1;
   const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' })[character]);
-  productGrid.insertAdjacentHTML('afterbegin', plannerProducts.map((product) => {
+  const bundleMarkup = '<article class="bundle-card"><div><span class="product-category">Best value bundle</span><h2>Complete Academic Planner Collection</h2><p>All four planners together for study, exams, organisation and long-term academic improvement.</p></div><div class="bundle-price"><strong>£19.99</strong><span>Save £7.97 compared with buying separately</span></div></article>';
+  const pagination = document.createElement('nav');
+  pagination.className = 'product-pagination';
+  pagination.setAttribute('aria-label', 'Academic product pages');
+  productGrid.insertAdjacentElement('afterend', pagination);
+
+  const productMarkup = (product) => {
     const action = product.checkoutUrl
       ? `<a class="button button-primary product-action" href="${escapeHtml(product.checkoutUrl)}" rel="noopener">Buy now</a>`
       : '<span class="button button-primary product-action is-disabled" aria-disabled="true">Purchase setup coming soon</span>';
-    return `<article class="product-card reveal" data-resource-item>
-      <div class="product-cover"><img src="${escapeHtml(product.image)}" alt="Cover of ${escapeHtml(product.title)}" /></div>
+    return `<article class="product-card reveal visible" data-resource-item>
+      <div class="product-cover"><img src="${escapeHtml(product.image)}" alt="Cover of ${escapeHtml(product.title)}" loading="lazy" /></div>
       <div class="product-copy"><span class="product-category">Printable academic planner</span><h2>${escapeHtml(product.title)}</h2><p>${escapeHtml(product.description)}</p>
       <ul class="product-features">${product.features.map((feature) => `<li>${escapeHtml(feature)}</li>`).join('')}</ul>
       <div class="product-price">${escapeHtml(product.price)}<small>Digital PDF · instant delivery after checkout is connected</small></div>${action}</div>
     </article>`;
-  }).join(''));
+  };
+
+  const renderPage = () => {
+    const firstProduct = (currentPage - 1) * productsPerPage;
+    productGrid.innerHTML = plannerProducts.slice(firstProduct, firstProduct + productsPerPage).map(productMarkup).join('') + (currentPage === totalPages ? bundleMarkup : '');
+    pagination.hidden = totalPages <= 1;
+    pagination.innerHTML = totalPages <= 1 ? '' : `<button type="button" data-page="prev" ${currentPage === 1 ? 'disabled' : ''} aria-label="Previous academic product page">← Previous</button>${Array.from({ length: totalPages }, (_, index) => {
+      const page = index + 1;
+      return `<button type="button" data-page="${page}" ${page === currentPage ? 'aria-current="page"' : ''} aria-label="Academic product page ${page}">${page}</button>`;
+    }).join('')}<button type="button" data-page="next" ${currentPage === totalPages ? 'disabled' : ''} aria-label="Next academic product page">Next →</button>`;
+  };
+
+  pagination.addEventListener('click', (event) => {
+    const button = event.target.closest('button[data-page]');
+    if (!button || button.disabled) return;
+    const requestedPage = button.dataset.page;
+    currentPage = requestedPage === 'prev' ? currentPage - 1 : requestedPage === 'next' ? currentPage + 1 : Number(requestedPage);
+    renderPage();
+    productGrid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+
+  renderPage();
   document.querySelector('[data-product-count]').textContent = `${plannerProducts.length} planners`;
-  document.querySelectorAll('.product-card.reveal').forEach((element) => element.classList.add('visible'));
 }

@@ -1,4 +1,4 @@
-# OTA Tutoring Website
+# OTA Learning Studio Website
 
 A responsive multi-page tutoring website built in the **Guided Momentum** visual direction.
 
@@ -8,7 +8,7 @@ Open `index.html` in any modern browser. No installation or build step is requir
 
 ## What is included
 
-- OTA Tutoring homepage
+- OTA Learning Studio homepage
 - Cal.com free parent consultation booking
 - Email-only contact
 - Region pages for the UK, Switzerland/Europe, United States, Australia and Asia
@@ -16,6 +16,10 @@ Open `index.html` in any modern browser. No installation or build step is requir
 - Searchable Learning Hub with free resources and a premium academic planner catalogue
 - Four premium planner listings with launch prices and safe checkout placeholders
 - Reusable `products.js` catalogue for adding future planners without rebuilding the page
+- Digital Shop hub with three distinct collections: E-books, General Planners & Templates, and Academic Resources
+- Reusable e-book and general-product catalogues with individual Selar checkout placeholders
+- Compact responsive horizontal product cards with automatic eight-item numbered pagination
+- Ten general planners and templates, including nine wellbeing, neurodivergence and recovery tools
 - Reusable blog publishing system with individual SEO-ready article pages
 - First article for Year 10 to Year 11 Foundation GCSE students
 - About Us navigation with experience, qualifications and verified parent feedback
@@ -40,6 +44,11 @@ The testimonials page includes only genuine feedback already supplied to the pro
 - `premium-planners.html` — premium planner catalogue and prices
 - `products.js` and `products.css` — reusable planner data and product design
 - `PRODUCT-INSTRUCTIONS.md` — simple instructions for adding future planners
+- `shop.html` — the main digital shop and three-category directory
+- `ebooks.html` — reusable e-book catalogue
+- `planners-templates.html` — reusable general planners and templates catalogue
+- `shop-products.js` and `shop.css` — editable shop data and responsive product styling
+- `SHOP-INSTRUCTIONS.md` — instructions for adding future e-books, planners, templates and Selar links
 - `testimonials.html` — verified parent feedback and review policy
 - `blog.html` — automatically generated blog index
 - `content/blog/` — the editable article files and reusable article template

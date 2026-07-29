@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build OTA Tutoring's blog from simple Markdown content files."""
+"""Build OTA Learning Studio's blog from simple Markdown content files."""
 
 from __future__ import annotations
 
@@ -181,15 +181,15 @@ def load_posts() -> list[Post]:
 
 
 def brand(prefix: str) -> str:
-    return f'''<a class="brand" href="{prefix}index.html" aria-label="OTA Tutoring home"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 40 40"><path d="M7 29.5V12.8c4.8-2 9.1-1.3 13 2.2v17.1c-3.9-3.5-8.2-4.4-13-2.6Z"/><path d="M33 29.5V12.8c-4.8-2-9.1-1.3-13 2.2v17.1c3.9-3.5 8.2-4.4 13-2.6Z"/><path d="M20 15v17"/></svg></span><span><strong>OTA Tutoring</strong><small>Guided learning. Lasting progress.</small></span></a>'''
+    return f'''<a class="brand" href="{prefix}index.html" aria-label="OTA Learning Studio home"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 40 40"><path d="M7 29.5V12.8c4.8-2 9.1-1.3 13 2.2v17.1c-3.9-3.5-8.2-4.4-13-2.6Z"/><path d="M33 29.5V12.8c-4.8-2-9.1-1.3-13 2.2v17.1c3.9-3.5 8.2-4.4 13-2.6Z"/><path d="M20 15v17"/></svg></span><span><strong>OTA Learning Studio</strong><small>Guided learning. Lasting progress.</small></span></a>'''
 
 
 def header(prefix: str) -> str:
-    return f'''<header class="site-header" data-header><div class="container nav-wrap">{brand(prefix)}<button class="menu-button" type="button" aria-expanded="false" aria-controls="primary-navigation" data-menu-button><span class="sr-only">Open menu</span><span></span><span></span><span></span></button><nav id="primary-navigation" class="primary-nav" aria-label="Primary navigation" data-menu><a href="{prefix}index.html">Home</a><a href="{prefix}index.html#services">Services</a><a href="{prefix}index.html#regions">Regions</a><a href="{prefix}index.html#approach">Approach</a><a href="{prefix}index.html#pricing">Pricing</a><div class="nav-dropdown" data-dropdown><button class="nav-dropdown-toggle" type="button" aria-expanded="false" aria-haspopup="true" aria-current="page" data-dropdown-button>Learning Hub <svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></button><div class="dropdown-menu"><a href="{prefix}learning-hub.html#free-resources"><strong>Free Resources</strong><small>Guides, articles and worksheets</small></a><a href="{prefix}learning-hub.html#premium-resources"><strong>Premium Resources</strong><small>Learning plans and revision packs</small></a><a href="{prefix}blog.html" aria-current="page"><strong>Blog Articles</strong><small>Advice for learners and parents</small></a><a href="{prefix}learning-hub.html#resource-search"><strong>Search Resources</strong><small>Find support by subject or exam</small></a></div></div><div class="nav-dropdown" data-dropdown><button class="nav-dropdown-toggle" type="button" aria-expanded="false" aria-haspopup="true" data-dropdown-button>About Us <svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></button><div class="dropdown-menu"><a href="{prefix}index.html#about"><strong>Meet Taiwo</strong><small>Your international online tutor</small></a><a href="{prefix}index.html#proof"><strong>Experience &amp; Qualifications</strong><small>Background and teaching credentials</small></a><a href="{prefix}testimonials.html"><strong>Testimonials</strong><small>Verified feedback from families</small></a></div></div><a class="nav-cta" href="{BOOKING_URL}">Book a Free Call</a></nav></div></header>'''
+    return f'''<header class="site-header" data-header><div class="container nav-wrap">{brand(prefix)}<button class="menu-button" type="button" aria-expanded="false" aria-controls="primary-navigation" data-menu-button><span class="sr-only">Open menu</span><span></span><span></span><span></span></button><nav id="primary-navigation" class="primary-nav" aria-label="Primary navigation" data-menu><a href="{prefix}index.html">Home</a><a href="{prefix}index.html#services">Services</a><a href="{prefix}index.html#regions">Regions</a><a href="{prefix}index.html#approach">Approach</a><a href="{prefix}index.html#pricing">Pricing</a><a href="{prefix}shop.html">Shop</a><div class="nav-dropdown" data-dropdown><button class="nav-dropdown-toggle" type="button" aria-expanded="false" aria-haspopup="true" aria-current="page" data-dropdown-button>Learning Hub <svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></button><div class="dropdown-menu"><a href="{prefix}learning-hub.html#free-resources"><strong>Free Resources</strong><small>Guides, articles and worksheets</small></a><a href="{prefix}learning-hub.html#premium-resources"><strong>Premium Resources</strong><small>Learning plans and revision packs</small></a><a href="{prefix}blog.html" aria-current="page"><strong>Blog Articles</strong><small>Advice for learners and parents</small></a><a href="{prefix}learning-hub.html#resource-search"><strong>Search Resources</strong><small>Find support by subject or exam</small></a></div></div><div class="nav-dropdown" data-dropdown><button class="nav-dropdown-toggle" type="button" aria-expanded="false" aria-haspopup="true" data-dropdown-button>About Us <svg viewBox="0 0 16 16" aria-hidden="true"><path d="m4 6 4 4 4-4"/></svg></button><div class="dropdown-menu"><a href="{prefix}index.html#about"><strong>Meet Taiwo</strong><small>Your international online tutor</small></a><a href="{prefix}index.html#proof"><strong>Experience &amp; Qualifications</strong><small>Background and teaching credentials</small></a><a href="{prefix}testimonials.html"><strong>Testimonials</strong><small>Verified feedback from families</small></a></div></div><a class="nav-cta" href="{BOOKING_URL}">Book a Free Call</a></nav></div></header>'''
 
 
 def footer(prefix: str) -> str:
-    return f'''<footer class="site-footer"><div class="container footer-top"><div class="footer-brand">{brand(prefix)}</div><nav aria-label="Footer navigation"><a href="{prefix}index.html#services">Services</a><a href="{prefix}learning-hub.html">Learning Hub</a><a href="{prefix}blog.html">Blog</a><a href="{prefix}testimonials.html">Testimonials</a><a href="{prefix}privacy.html">Privacy</a><a href="mailto:{EMAIL}">Email</a></nav></div><div class="container footer-bottom"><p>© <span data-year></span> OTA Tutoring.</p><p>International online tutoring.</p></div></footer>'''
+    return f'''<footer class="site-footer"><div class="container footer-top"><div class="footer-brand">{brand(prefix)}</div><nav aria-label="Footer navigation"><a href="{prefix}index.html#services">Services</a><a href="{prefix}learning-hub.html">Learning Hub</a><a href="{prefix}shop.html">Shop</a><a href="{prefix}blog.html">Blog</a><a href="{prefix}testimonials.html">Testimonials</a><a href="{prefix}privacy.html">Privacy</a><a href="mailto:{EMAIL}">Email</a></nav></div><div class="container footer-bottom"><p>© <span data-year></span> OTA Learning Studio.</p><p>International online tutoring.</p></div></footer>'''
 
 
 def post_card(post: Post, featured: bool = False) -> str:
@@ -197,7 +197,7 @@ def post_card(post: Post, featured: bool = False) -> str:
     if featured:
         classes += " featured-post"
     search = html.escape(f"{post.title} {post.description} {post.category} {post.keywords}", quote=True)
-    return f'''<article class="{classes}" data-blog-item data-search="{search}"><a class="blog-card-visual" href="blog/{post.slug}.html" aria-label="Read {html.escape(post.title, quote=True)}"><span>OTA TUTORING</span><strong>{html.escape(post.category)}</strong><i aria-hidden="true">✦</i></a><div class="blog-card-copy"><div class="blog-meta"><span>{html.escape(post.category)}</span><time datetime="{post.published.isoformat()}">{post.display_date}</time><span>{post.read_minutes} min read</span></div><h2><a href="blog/{post.slug}.html">{html.escape(post.title)}</a></h2><p>{html.escape(post.description)}</p><a class="text-link" href="blog/{post.slug}.html">Read article →</a></div></article>'''
+    return f'''<article class="{classes}" data-blog-item data-search="{search}"><a class="blog-card-visual" href="blog/{post.slug}.html" aria-label="Read {html.escape(post.title, quote=True)}"><span>OTA LEARNING STUDIO</span><strong>{html.escape(post.category)}</strong><i aria-hidden="true">✦</i></a><div class="blog-card-copy"><div class="blog-meta"><span>{html.escape(post.category)}</span><time datetime="{post.published.isoformat()}">{post.display_date}</time><span>{post.read_minutes} min read</span></div><h2><a href="blog/{post.slug}.html">{html.escape(post.title)}</a></h2><p>{html.escape(post.description)}</p><a class="text-link" href="blog/{post.slug}.html">Read article →</a></div></article>'''
 
 
 def build_blog_index(posts: list[Post]) -> str:
@@ -208,10 +208,10 @@ def build_blog_index(posts: list[Post]) -> str:
     schema = {
         "@context": "https://schema.org",
         "@type": "Blog",
-        "name": "OTA Tutoring Blog",
+        "name": "OTA Learning Studio Blog",
         "url": f"{SITE_URL}/blog.html",
         "description": "Practical learning and exam advice for international learners and their parents.",
-        "publisher": {"@type": "EducationalOrganization", "name": "OTA Tutoring", "url": f"{SITE_URL}/"},
+        "publisher": {"@type": "EducationalOrganization", "name": "OTA Learning Studio", "url": f"{SITE_URL}/"},
         "blogPost": [
             {"@type": "BlogPosting", "headline": post.title, "url": post.url, "datePublished": post.published.isoformat()}
             for post in posts
@@ -222,19 +222,19 @@ def build_blog_index(posts: list[Post]) -> str:
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Read practical GCSE, IGCSE, SAT and international-school learning advice for students and parents from OTA Tutoring." />
+    <meta name="description" content="Read practical GCSE, IGCSE, SAT and international-school learning advice for students and parents from OTA Learning Studio." />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="theme-color" content="#14213f" />
     <link rel="canonical" href="{SITE_URL}/blog.html" />
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="OTA Tutoring" />
-    <meta property="og:title" content="Learning Advice for Students and Parents | OTA Tutoring Blog" />
+    <meta property="og:site_name" content="OTA Learning Studio" />
+    <meta property="og:title" content="Learning Advice for Students and Parents | OTA Learning Studio Blog" />
     <meta property="og:description" content="Clear, practical articles about GCSE preparation, study habits and confident learning." />
     <meta property="og:url" content="{SITE_URL}/blog.html" />
     <meta property="og:image" content="{SITE_URL}/assets/ota-social-preview.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <title>GCSE, IGCSE &amp; Study Advice Blog | OTA Tutoring</title>
+    <title>GCSE, IGCSE &amp; Study Advice Blog | OTA Learning Studio</title>
     <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="pages.css" />
     <link rel="stylesheet" href="blog.css" />
@@ -244,7 +244,7 @@ def build_blog_index(posts: list[Post]) -> str:
     <a class="skip-link" href="#main-content">Skip to content</a>
     {header("")}
     <main id="main-content">
-      <section class="page-hero blog-hero"><div class="container page-hero-grid"><div class="page-hero-copy reveal"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="index.html">Home</a><span>/</span><a href="learning-hub.html">Learning Hub</a><span>/</span><span>Blog</span></nav><p class="eyebrow"><span></span> OTA Tutoring blog</p><h1>Clear advice for calmer, more confident learning.</h1><p>Practical articles for students and parents navigating GCSE, IGCSE, international curricula, exams and everyday learning.</p></div><aside class="page-hero-card reveal"><span>Written from real teaching</span><h2>Useful ideas you can actually apply.</h2><p>Each article turns common learning problems into simple, realistic next steps for families and students.</p><a class="text-link" href="learning-hub.html">Explore the Learning Hub →</a></aside></div></section>
+      <section class="page-hero blog-hero"><div class="container page-hero-grid"><div class="page-hero-copy reveal"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="index.html">Home</a><span>/</span><a href="learning-hub.html">Learning Hub</a><span>/</span><span>Blog</span></nav><p class="eyebrow"><span></span> OTA Learning Studio blog</p><h1>Clear advice for calmer, more confident learning.</h1><p>Practical articles for students and parents navigating GCSE, IGCSE, international curricula, exams and everyday learning.</p></div><aside class="page-hero-card reveal"><span>Written from real teaching</span><h2>Useful ideas you can actually apply.</h2><p>Each article turns common learning problems into simple, realistic next steps for families and students.</p><a class="text-link" href="learning-hub.html">Explore the Learning Hub →</a></aside></div></section>
       <section class="blog-search"><div class="container"><label for="blog-search-input"><span>Search blog articles</span><input id="blog-search-input" type="search" placeholder="Search GCSE, summer, revision…" autocomplete="off" data-blog-search /></label></div></section>
       <section class="page-section"><div class="container"><div class="hub-section-heading reveal"><div><p class="eyebrow"><span></span> Latest articles</p><h2>Support for the next step.</h2></div><p>New articles are added regularly to help students maintain progress and prepare with less pressure.</p></div><div class="blog-grid" data-blog-list>{cards}</div><p class="blog-empty" hidden data-blog-empty>No article matches that search yet.</p></div></section>
       <section class="page-cta"><div class="container page-cta-inner"><div><h2>Need advice for one particular learner?</h2><p>Book a free parent consultation to discuss the learner’s current level, curriculum and most useful next step.</p></div><a class="button button-mint" href="{BOOKING_URL}">Book a Free Call →</a></div></section>
@@ -265,7 +265,7 @@ def build_post_page(post: Post) -> str:
         "datePublished": post.published.isoformat(),
         "dateModified": post.published.isoformat(),
         "author": {"@type": "Person", "name": post.author},
-        "publisher": {"@type": "EducationalOrganization", "name": "OTA Tutoring", "url": f"{SITE_URL}/"},
+        "publisher": {"@type": "EducationalOrganization", "name": "OTA Learning Studio", "url": f"{SITE_URL}/"},
         "mainEntityOfPage": {"@type": "WebPage", "@id": post.url},
         "image": f"{SITE_URL}/assets/ota-social-preview.png",
         "keywords": post.keywords,
@@ -283,7 +283,7 @@ def build_post_page(post: Post) -> str:
     <link rel="canonical" href="{post.url}" />
     <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml" />
     <meta property="og:type" content="article" />
-    <meta property="og:site_name" content="OTA Tutoring" />
+    <meta property="og:site_name" content="OTA Learning Studio" />
     <meta property="og:title" content="{html.escape(post.title, quote=True)}" />
     <meta property="og:description" content="{html.escape(post.description, quote=True)}" />
     <meta property="og:url" content="{post.url}" />
@@ -291,7 +291,7 @@ def build_post_page(post: Post) -> str:
     <meta property="article:published_time" content="{post.published.isoformat()}" />
     <meta property="article:section" content="{html.escape(post.category, quote=True)}" />
     <meta name="twitter:card" content="summary_large_image" />
-    <title>{html.escape(post.seo_title)} | OTA Tutoring</title>
+    <title>{html.escape(post.seo_title)} | OTA Learning Studio</title>
     <link rel="stylesheet" href="../styles.css" />
     <link rel="stylesheet" href="../pages.css" />
     <link rel="stylesheet" href="../blog.css" />
@@ -303,7 +303,7 @@ def build_post_page(post: Post) -> str:
     <main id="main-content">
       <article>
         <header class="post-hero"><div class="container post-hero-inner"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="../index.html">Home</a><span>/</span><a href="../blog.html">Blog</a><span>/</span><span>{html.escape(post.category)}</span></nav><p class="eyebrow"><span></span> {html.escape(post.category)}</p><h1>{html.escape(post.title)}</h1><div class="post-meta"><span>By {html.escape(post.author)}</span><time datetime="{post.published.isoformat()}">{post.display_date}</time><span>{post.read_minutes} min read</span></div></div></header>
-        <div class="container post-layout"><div class="blog-prose">{post.body_html}<div class="post-end-note"><span aria-hidden="true">✦</span><p><strong>Keep the momentum going.</strong> A simple, consistent routine can make returning to school feel much more manageable.</p></div></div><aside class="post-aside"><span class="live-pill">Free parent consultation</span><h2>Would personalised support help?</h2><p>Discuss the learner’s current level, curriculum and goals with OTA Tutoring.</p><a class="button button-primary" href="{BOOKING_URL}">Book a Free Call →</a><a class="aside-back-link" href="../blog.html">← Back to all articles</a></aside></div>
+        <div class="container post-layout"><div class="blog-prose">{post.body_html}<div class="post-end-note"><span aria-hidden="true">✦</span><p><strong>Keep the momentum going.</strong> A simple, consistent routine can make returning to school feel much more manageable.</p></div></div><aside class="post-aside"><span class="live-pill">Free parent consultation</span><h2>Would personalised support help?</h2><p>Discuss the learner’s current level, curriculum and goals with OTA Learning Studio.</p><a class="button button-primary" href="{BOOKING_URL}">Book a Free Call →</a><a class="aside-back-link" href="../blog.html">← Back to all articles</a></aside></div>
       </article>
       <section class="page-cta"><div class="container page-cta-inner"><div><h2>Support that begins with the learner’s real needs.</h2><p>Lessons are personalised, international and designed to build understanding as well as confidence.</p></div><a class="button button-mint" href="{BOOKING_URL}">Choose a time →</a></div></section>
     </main>
