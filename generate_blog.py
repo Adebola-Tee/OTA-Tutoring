@@ -17,7 +17,7 @@ CONTENT_DIR = ROOT / "content" / "blog"
 OUTPUT_DIR = ROOT / "blog"
 SITE_URL = "https://otalearningstudio.com"
 BOOKING_URL = "https://cal.com/taiwo-oloyede-wmeart/free-parent-consultation"
-EMAIL = "taiwooloyede49@gmail.com"
+EMAIL = "taiwo@otalearningstudio.com"
 
 
 @dataclass
@@ -189,7 +189,7 @@ def header(prefix: str) -> str:
 
 
 def footer(prefix: str) -> str:
-    return f'''<footer class="site-footer"><div class="container footer-top"><div class="footer-brand">{brand(prefix)}</div><nav aria-label="Footer navigation"><a href="{prefix}index.html#services">Services</a><a href="{prefix}learning-hub.html">Learning Hub</a><a href="{prefix}shop.html">Shop</a><a href="{prefix}blog.html">Blog</a><a href="{prefix}testimonials.html">Testimonials</a><a href="{prefix}privacy.html">Privacy</a><a href="mailto:{EMAIL}">Email</a></nav></div><div class="container footer-bottom"><p>© <span data-year></span> OTA Learning Studio.</p><p>International online tutoring.</p></div></footer>'''
+    return f'''<footer class="site-footer"><div class="container footer-top"><div class="footer-brand">{brand(prefix)}</div><nav aria-label="Footer navigation"><a href="{prefix}index.html#services">Services</a><a href="{prefix}learning-hub.html">Learning Hub</a><a href="{prefix}shop.html">Shop</a><a href="{prefix}blog.html">Blog</a><a href="{prefix}testimonials.html">Testimonials</a><a href="{prefix}privacy.html">Privacy</a><a href="{prefix}contact.html">Contact</a><a href="mailto:{EMAIL}">Email</a></nav></div><div class="container footer-bottom"><p>© <span data-year></span> OTA Learning Studio.</p><p>International online tutoring.</p></div></footer>'''
 
 
 def post_card(post: Post, featured: bool = False) -> str:
