@@ -239,6 +239,7 @@ def build_blog_index(posts: list[Post]) -> str:
     <link rel="stylesheet" href="pages.css" />
     <link rel="stylesheet" href="blog.css" />
     <link rel="stylesheet" href="contact-widgets.css" />
+    <script src="analytics.js"></script>
     <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
   </head>
   <body class="subpage blog-page">
@@ -298,6 +299,7 @@ def build_post_page(post: Post) -> str:
     <link rel="stylesheet" href="../pages.css" />
     <link rel="stylesheet" href="../blog.css" />
     <link rel="stylesheet" href="../contact-widgets.css" />
+    <script src="../analytics.js"></script>
     <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
   </head>
   <body class="subpage blog-post-page">

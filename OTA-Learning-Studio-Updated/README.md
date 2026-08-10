@@ -1,5 +1,9 @@
 # OTA Learning Studio Website
 
+## Google Analytics
+
+Google Analytics 4 is installed through `analytics.js` using Measurement ID `G-55Q6YKDDJH`. Analytics loads only after a visitor accepts the privacy prompt. The site records page visits and important booking, WhatsApp, email and product-checkout clicks. Regional advertising links are listed in `AD-TRACKING-LINKS.md`.
+
 A responsive multi-page tutoring website built in the **Guided Momentum** visual direction.
 
 ## Open the website
@@ -62,4 +66,3 @@ The testimonials page includes only genuine feedback already supplied to the pro
 To publish another article, follow `BLOG-INSTRUCTIONS.md`. Edit a copied Markdown template, then run `BUILD_BLOG.bat`; do not manually edit the generated article HTML.
 
 To add another premium planner, follow `PRODUCT-INSTRUCTIONS.md`. Keep paid PDF files outside this public repository and place only product previews and secure checkout links on the website.
-
