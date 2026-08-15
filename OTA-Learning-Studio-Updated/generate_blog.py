@@ -181,7 +181,7 @@ def load_posts() -> list[Post]:
 
 
 def brand(prefix: str) -> str:
-    return f'''<a class="brand" href="{prefix}index.html" aria-label="OTA Learning Studio home"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 40 40"><path d="M7 29.5V12.8c4.8-2 9.1-1.3 13 2.2v17.1c-3.9-3.5-8.2-4.4-13-2.6Z"/><path d="M33 29.5V12.8c-4.8-2-9.1-1.3-13 2.2v17.1c3.9-3.5 8.2-4.4 13-2.6Z"/><path d="M20 15v17"/></svg></span><span><strong>OTA Learning Studio</strong><small>Guided learning. Lasting progress.</small></span></a>'''
+    return f'''<a class="brand" href="{prefix}index.html" aria-label="OTA Learning Studio home"><img class="brand-logo" src="{prefix}assets/ota-learning-studio-logo-2026.png" alt="OTA Learning Studio — Guided Learning. Lasting Progress." /></a>'''
 
 
 def header(prefix: str) -> str:
@@ -226,7 +226,7 @@ def build_blog_index(posts: list[Post]) -> str:
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="theme-color" content="#14213f" />
     <link rel="canonical" href="{SITE_URL}/blog.html" />
-    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="assets/favicon-2026.png" type="image/png" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="OTA Learning Studio" />
     <meta property="og:title" content="Learning Advice for Students and Parents | OTA Learning Studio Blog" />
@@ -239,6 +239,7 @@ def build_blog_index(posts: list[Post]) -> str:
     <link rel="stylesheet" href="pages.css" />
     <link rel="stylesheet" href="blog.css" />
     <link rel="stylesheet" href="contact-widgets.css" />
+    <script src="analytics.js"></script>
     <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
   </head>
   <body class="subpage blog-page">
@@ -283,7 +284,7 @@ def build_post_page(post: Post) -> str:
     <meta name="author" content="{html.escape(post.author, quote=True)}" />
     <meta name="theme-color" content="#14213f" />
     <link rel="canonical" href="{post.url}" />
-    <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="../assets/favicon-2026.png" type="image/png" />
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="OTA Learning Studio" />
     <meta property="og:title" content="{html.escape(post.title, quote=True)}" />
@@ -298,6 +299,7 @@ def build_post_page(post: Post) -> str:
     <link rel="stylesheet" href="../pages.css" />
     <link rel="stylesheet" href="../blog.css" />
     <link rel="stylesheet" href="../contact-widgets.css" />
+    <script src="../analytics.js"></script>
     <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
   </head>
   <body class="subpage blog-post-page">

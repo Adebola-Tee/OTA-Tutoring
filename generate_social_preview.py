@@ -33,12 +33,9 @@ draw.ellipse((860, -160, 1340, 320), outline=(143, 135, 220, 60), width=2)
 draw.ellipse((930, -90, 1270, 250), outline=(143, 135, 220, 48), width=2)
 draw.ellipse((-150, 420, 290, 860), fill=(188, 235, 220, 115))
 
-draw.rounded_rectangle((85, 74, 161, 150), radius=23, fill="#bcebdc")
-draw.line((101, 128, 101, 96), fill="#14213f", width=3)
-draw.line((145, 128, 145, 96), fill="#14213f", width=3)
-draw.arc((101, 91, 132, 136), 250, 95, fill="#14213f", width=3)
-draw.arc((114, 91, 145, 136), 85, 290, fill="#14213f", width=3)
-draw.line((123, 102, 123, 136), fill="#14213f", width=3)
+mark = Image.open(ROOT / "assets" / "ota-learning-studio-icon-2026.png").convert("RGBA")
+mark.thumbnail((110, 86), Image.Resampling.LANCZOS)
+image.paste(mark, (72, 65), mark)
 
 navy = "#14213f"
 muted = "#617089"
@@ -56,4 +53,3 @@ draw.rounded_rectangle((302, 510, 697, 558), radius=24, fill=(255, 255, 255, 205
 draw.text((500, 534), "MATHS • SCIENCE • ENGLISH • CODING", anchor="mm", fill=navy, font=font("DejaVuSans-Bold.ttf", 14))
 
 image.save(ROOT / "assets" / "ota-social-preview.png", optimize=True)
-

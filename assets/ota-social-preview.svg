@@ -10,8 +10,7 @@
   <circle cx="1100" cy="80" r="240" fill="none" stroke="#8f87dc" stroke-opacity=".24" stroke-width="2"/>
   <circle cx="1100" cy="80" r="170" fill="none" stroke="#8f87dc" stroke-opacity=".18" stroke-width="2"/>
   <circle cx="70" cy="620" r="220" fill="#bcebdc" fill-opacity=".5"/>
-  <rect x="85" y="74" width="76" height="76" rx="23" fill="#bcebdc"/>
-  <path d="M101 128V96c12-5 22-3 30 6v34c-8-9-18-12-30-8Zm44 0V96c-12-5-22-3-30 6v34c8-9 18-12 30-8Zm-22-26v34" fill="none" stroke="#14213f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <image href="ota-learning-studio-icon-2026.png" x="72" y="65" width="110" height="86" preserveAspectRatio="xMidYMid meet"/>
   <text x="185" y="108" fill="#14213f" font-family="Georgia, serif" font-size="42" font-weight="700">OTA Learning Studio</text>
   <text x="185" y="139" fill="#617089" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">GUIDED LEARNING. LASTING PROGRESS.</text>
   <text x="84" y="278" fill="#14213f" font-family="Georgia, serif" font-size="69">Learn with clarity.</text>
