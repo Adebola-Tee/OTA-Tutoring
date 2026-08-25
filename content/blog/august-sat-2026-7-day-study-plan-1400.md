@@ -6,7 +6,7 @@ date: 2026-08-15
 category: SAT Advice
 author: Taiwo Oloyede
 keywords: August SAT 2026, SAT study plan, 7 day SAT study plan, Digital SAT 2026, SAT preparation, SAT Math, SAT Reading and Writing, 1400 SAT score, SAT tutor USA
-featured: true
+featured: false
 draft: false
 ---
 
