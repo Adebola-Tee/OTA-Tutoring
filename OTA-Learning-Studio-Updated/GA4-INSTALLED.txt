@@ -1,7 +1,0 @@
-OTA Learning Studio — Google Analytics installation confirmed
-
-Measurement ID: G-55Q6YKDDJH
-Analytics file: analytics.js
-Updated: 10 August 2026
-
-If this file and analytics.js are visible, you have the correct updated package.
