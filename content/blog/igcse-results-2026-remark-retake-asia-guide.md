@@ -73,40 +73,23 @@ That turns a disappointing result into something useful.
 
 ## Remark vs Retake: A Quick Decision Guide
 
-<table>
-  <thead>
-    <tr>
-      <th>Situation</th>
-      <th>Possible Next Step</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1–2 marks below the next grade</td>
-      <td>Consider a review of marking</td>
-    </tr>
-    <tr>
-      <td>Result is unusually low</td>
-      <td>Review the script and discuss a remark</td>
-    </tr>
-    <tr>
-      <td>Several marks below the required grade</td>
-      <td>Consider a retake</td>
-    </tr>
-    <tr>
-      <td>Grade blocks entry to the next course</td>
-      <td>Discuss remark and retake options quickly</td>
-    </tr>
-    <tr>
-      <td>Required grades have already been achieved</td>
-      <td>Moving on may be the better choice</td>
-    </tr>
-    <tr>
-      <td>Student has major knowledge gaps</td>
-      <td>Focus on preparation before considering a retake</td>
-    </tr>
-  </tbody>
-</table>
+**1–2 marks below the next grade**  
+Consider a review of marking.
+
+**Result is unusually low**  
+Review the script and discuss a remark.
+
+**Several marks below the required grade**  
+Consider a retake.
+
+**Grade blocks entry to the next course**  
+Discuss remark and retake options quickly.
+
+**Required grades have already been achieved**  
+Moving on may be the better choice.
+
+**Student has major knowledge gaps**  
+Focus on preparation before considering a retake.
 
 ## Before You Decide
 
