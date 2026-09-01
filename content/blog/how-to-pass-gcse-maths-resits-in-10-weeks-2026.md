@@ -30,7 +30,7 @@ Your preparation should revolve around three things:
 - practising those topics until you can answer questions independently
 - completing and analysing GCSE Maths past papers
 
-If you are preparing for the November series, also check our **[November GCSE Maths Resit Dates and Entry Deadlines 2026](ADD-LIVE-LINK-HERE)** so that you do not miss an important registration or exam date.
+If you are preparing for the November series, also check our **[November GCSE Maths Resit Dates and Entry Deadlines 2026](https://otalearningstudio.com/blog/november-gcse-maths-resit-dates-entry-deadlines-2026.html)** so that you do not miss an important registration or exam date.
 
 ## Before Week 1: Find Out Why You Did Not Get Your Target Grade
 
@@ -349,7 +349,7 @@ If you have eight, six or even four weeks remaining, compress the plan rather th
 
 Begin with the diagnostic paper, identify your biggest weaknesses and prioritise the topics most likely to improve your score.
 
-You can check the confirmed examination schedule in our **[November GCSE Maths Resit Dates and Entry Deadlines 2026](ADD-LIVE-LINK-HERE)**.
+You can check the confirmed examination schedule in our **[November GCSE Maths Resit Dates and Entry Deadlines 2026](https://otalearningstudio.com/blog/november-gcse-maths-resit-dates-entry-deadlines-2026.html)**.
 
 And if you are worried that the November papers themselves may be more difficult, read **[Are November GCSE Resits Harder Than Summer Exams?](https://otalearningstudio.com/blog/are-november-gcse-resits-harder-than-summer-exams-2026.html)**.
 
