@@ -16,7 +16,7 @@ keywords: Cambridge IGCSE vs Edexcel International GCSE, Cambridge IGCSE results
 
 featured: false
 
-draft: true
+draft: false
 
 ---
 
