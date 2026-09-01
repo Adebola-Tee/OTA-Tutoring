@@ -1,0 +1,38 @@
+.consultation-modal[hidden] { display: none; }
+.consultation-modal { position: fixed; inset: 0; z-index: 10000; display: flex; justify-content: flex-end; }
+.consultation-backdrop { position: absolute; inset: 0; border: 0; background: rgba(12, 24, 46, .54); cursor: default; }
+.consultation-panel { position: relative; width: min(520px, 100%); height: 100%; overflow-y: auto; background: #fbfcff; box-shadow: -18px 0 48px rgba(20, 33, 63, .24); outline: 0; animation: consultation-in .25s ease-out; }
+.consultation-header { position: sticky; top: 0; z-index: 2; display: flex; align-items: flex-start; justify-content: space-between; gap: 18px; padding: 25px 25px 22px; color: #fff; background: #14213f; }
+.consultation-heading { display: flex; align-items: center; gap: 13px; }
+.consultation-heading h2 { margin: 0 0 3px; color: #fff; font: 700 22px/1.25 var(--font-sans, Arial, sans-serif); }
+.consultation-heading p { margin: 0; color: rgba(255,255,255,.76); font-size: 14px; line-height: 1.45; }
+.consultation-whatsapp { display: grid; flex: 0 0 42px; width: 42px; height: 42px; place-items: center; border-radius: 50%; background: #25d366; font-size: 20px; }
+.consultation-close { flex: 0 0 auto; border: 0; padding: 0; color: rgba(255,255,255,.8); background: transparent; font-size: 31px; line-height: 1; cursor: pointer; }
+.consultation-form { display: grid; gap: 22px; padding: 27px 25px 35px; color: #14213f; }
+.consultation-form fieldset { min-width: 0; margin: 0; padding: 0; border: 0; }
+.consultation-form legend, .consultation-form > label, .consultation-field-row > label { display: grid; gap: 8px; width: 100%; color: #14213f; font-weight: 700; font-size: 15px; }
+.consultation-form legend { margin-bottom: 11px; }
+.consultation-form > label > span, .consultation-field-row > label > span, .consultation-form legend > span { color: #b3405a; }
+.consultation-form input[type="text"], .consultation-form input[type="tel"], .consultation-form input[type="email"], .consultation-form textarea { width: 100%; border: 1px solid #ccd3df; border-radius: 12px; padding: 13px 14px; color: #14213f; background: #fff; font: 400 16px/1.4 inherit; transition: border-color .2s, box-shadow .2s; }
+.consultation-form textarea { resize: vertical; min-height: 92px; }
+.consultation-form input:focus, .consultation-form textarea:focus { border-color: #7368d7; outline: none; box-shadow: 0 0 0 3px rgba(115,104,215,.14); }
+.consultation-field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.choice-grid { display: flex; flex-wrap: wrap; gap: 9px; }
+.choice-grid label { cursor: pointer; }
+.choice-grid input { position: absolute; opacity: 0; pointer-events: none; }
+.choice-grid label span { display: block; border: 1px solid #ccd3df; border-radius: 999px; padding: 9px 13px; color: #44516b; background: #fff; font-weight: 600; font-size: 14px; line-height: 1.2; transition: .18s ease; }
+.choice-grid input:checked + span { border-color: #7368d7; color: #14213f; background: #eeecff; box-shadow: 0 0 0 1px #7368d7; }
+.choice-grid input:focus-visible + span { outline: 3px solid rgba(115,104,215,.25); outline-offset: 2px; }
+.consultation-error { margin: 9px 0 0; color: #b42342; font-size: 13px; }
+.consultation-privacy { margin: -4px 0 0; color: #66728a; font-size: 12px; line-height: 1.55; }
+.consultation-submit { display: flex; align-items: center; justify-content: center; gap: 9px; width: 100%; border: 0; border-radius: 12px; padding: 15px 18px; color: #fff; background: #16a85a; box-shadow: 0 10px 24px rgba(22,168,90,.2); font-size: 16px; font-weight: 800; cursor: pointer; }
+.consultation-submit:hover { background: #118b49; transform: translateY(-1px); }
+body.consultation-open { overflow: hidden; }
+@keyframes consultation-in { from { opacity: 0; transform: translateX(28px); } to { opacity: 1; transform: none; } }
+@media (max-width: 560px) {
+  .consultation-header { padding: 20px 17px 18px; }
+  .consultation-form { padding: 23px 17px 30px; }
+  .consultation-heading h2 { font-size: 20px; }
+  .consultation-field-row { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) { .consultation-panel { animation: none; } }
