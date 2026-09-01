@@ -22,7 +22,7 @@ draft: true
 
 If your child attends an international school in Asia, you may have heard both names repeatedly: **Cambridge IGCSE** and **Pearson Edexcel International GCSE**.
 
-Now that the **2026 IGCSE results** are out, many parents are asking the same questions. Is one board harder? Why are the grades different? Can you compare an Edexcel grade 9 directly with a Cambridge A*?
+Now that the **2026 IGCSE results** are out, many parents are asking the same questions. Is one board harder? Why are the grades different? Can you compare an Edexcel grade 9 directly with a Cambridge A\*?
 
 The short answer is that Cambridge and Edexcel are both respected international qualifications, but they are separate exam boards with different grading systems, specifications and assessment structures.
 
@@ -40,11 +40,11 @@ One of the biggest differences parents notice is the grading scale.
 
 Pearson Edexcel International GCSE generally uses the **9–1 grading scale**, with grade 9 representing the highest performance.
 
-Cambridge IGCSE commonly uses the **A*–G scale**, although some Cambridge syllabuses are also available with 9–1 grading.
+Cambridge IGCSE commonly uses the **A\*–G scale**, although some Cambridge syllabuses are also available with 9–1 grading.
 
 This means parents should avoid comparing two students simply by looking at the symbols on their result slips.
 
-An **A*** under one system and a **grade 9** under another both represent very strong achievement, but the grades come from different specifications and awarding processes.
+An **A\*** under one system and a **grade 9** under another both represent very strong achievement, but the grades come from different specifications and awarding processes.
 
 ## Why Are Cambridge and Edexcel Grade Boundaries Different?
 
