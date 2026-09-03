@@ -108,7 +108,7 @@ Practise under examination conditions and analyse every mistake afterwards.
 
 Your objective is not simply to complete as many papers as possible. It is to **stop making the same mistakes repeatedly**.
 
-For a complete revision structure, see our upcoming guide: **[How to Pass GCSE Maths Resits in 10 Weeks](ADD-LINK-WHEN-PUBLISHED)**.
+For a complete revision structure, see our upcoming guide: **[How to Pass GCSE Maths Resits in 10 Weeks](https://otalearningstudio.com/blog/how-to-pass-gcse-maths-resits-in-10-weeks-2026.html)**.
 
 ## What If You Failed GCSE Maths in the Summer?
 
