@@ -187,5 +187,39 @@
     <script src="script.js"></script>
     <script src="consultation-form.js"></script>
     <script src="contact-widgets.js"></script>
+    <script>
+      (() => {
+        const campaignDetails = () => {
+          const params = new URLSearchParams(window.location.search);
+          return {
+            page_path: window.location.pathname,
+            campaign_source: params.get('utm_source') || '(direct)',
+            campaign_medium: params.get('utm_medium') || '(none)',
+            campaign_name: params.get('utm_campaign') || '(none)'
+          };
+        };
+
+        document.addEventListener('click', (event) => {
+          const trigger = event.target.closest('[data-consultation-open], a[href="#consultation"]');
+          if (!trigger || typeof window.gtag !== 'function') return;
+          window.gtag('event', 'consultation_open', {
+            ...campaignDetails(),
+            button_text: (trigger.textContent || '').trim().slice(0, 100)
+          });
+        }, true);
+
+        document.addEventListener('submit', (event) => {
+          if (!event.target.matches('[data-consultation-form]') || typeof window.gtag !== 'function') return;
+          const subjects = [...event.target.querySelectorAll('input[name="subjects"]:checked')];
+          if (!event.target.checkValidity() || !subjects.length) return;
+          window.gtag('event', 'generate_lead', {
+            ...campaignDetails(),
+            lead_source: 'whatsapp_consultation_form',
+            currency: 'GBP',
+            value: 1
+          });
+        }, true);
+      })();
+    </script>
   </body>
 </html>
