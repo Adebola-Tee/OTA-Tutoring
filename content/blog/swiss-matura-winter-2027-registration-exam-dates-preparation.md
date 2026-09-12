@@ -9,7 +9,9 @@ author: Taiwo Oloyede
 keywords: Swiss Matura 2027, Maturitätsprüfung 2027, Swiss Matura exam dates, Matura preparation Switzerland, Swiss Matura Winter 2027, Swiss Matura registration deadline, Schweizerische Maturitätsprüfung 2027
 featured: false
 draft: false
------------
+---
+
+---
 
 Students planning to sit the **Swiss Matura Winter 2027** session now have an important date to work towards: **1 December 2026**.
 
@@ -29,10 +31,10 @@ The Winter 2027 examination schedule depends on whether a candidate is completin
 
 Key dates currently published include:
 
-* **Second-part written examinations:** 15–19 February 2027
-* **First-part written examinations:** 22–24 February 2027
-* **Second-part oral examinations:** 8–11 March 2027
-* **First-part examinations:** additional examinations take place within the published session period
+- **Second-part written examinations:** 15–19 February 2027
+- **First-part written examinations:** 22–24 February 2027
+- **Second-part oral examinations:** 8–11 March 2027
+- **First-part examinations:** additional examinations take place within the published session period
 
 The written examinations are expected to take place in **Zurich**, with oral examinations expected in **Pfäffikon, Schwyz**.
 
@@ -44,9 +46,9 @@ With several months remaining, preparation should be systematic rather than rush
 
 Start by identifying three things:
 
-* subjects where your foundations are weakest
-* topics that consistently cost you marks
-* subjects requiring significant written or problem-solving practice
+- subjects where your foundations are weakest
+- topics that consistently cost you marks
+- subjects requiring significant written or problem-solving practice
 
 From there, build weekly revision around the official syllabus instead of simply rereading notes.
 
