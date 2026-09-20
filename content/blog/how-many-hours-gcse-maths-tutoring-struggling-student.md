@@ -87,7 +87,7 @@ Multi-step questions?
 
 Or is the student losing marks because of timing and careless mistakes rather than weak Maths?
 
-Our guide on [what to do when your child is failing GCSE Maths in Year 11](PASTE-CHILD-FAILING-GCSE-MATHS-YEAR-11-LINK-HERE) explains how parents can identify the real problem before simply adding more revision.
+Our guide on [what to do when your child is failing GCSE Maths in Year 11](https://otalearningstudio.com/blog/child-failing-gcse-maths-year-11-what-to-do.html) explains how parents can identify the real problem before simply adding more revision.
 
 ## More tutoring does not automatically mean faster improvement
 
@@ -173,7 +173,7 @@ If none of these are changing, simply continuing the same number of tutoring hou
 
 The teaching plan may need to change.
 
-Parents can also use our [GCSE Maths revision guide](PASTE-RELEVANT-GCSE-MATHS-REVISION-BLOG-LINK-HERE) alongside tutoring to structure work between lessons.
+Parents can also use our [GCSE Maths revision guide](https://otalearningstudio.com/blog/how-to-prepare-for-november-gcse-maths-resits-in-10-weeks.html) alongside tutoring to structure work between lessons.
 
 ## The best tutoring plan should be personalised
 
