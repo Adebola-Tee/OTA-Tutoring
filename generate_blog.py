@@ -262,6 +262,10 @@ def build_blog_index(posts: list[Post]) -> str:
 
 
 def build_post_page(post: Post) -> str:
+    is_seag = post.category.lower().startswith("seag")
+    lead_magnet_css = '\n    <link rel="stylesheet" href="../lead-magnet.css" />' if is_seag else ""
+    lead_magnet = '''<aside class="lead-magnet-inline"><p class="eyebrow"><span></span> Free parent guide</p><h2>Get the SEAG 2026 final 8-week revision plan.</h2><p>Use the printable weekly plan, mistake tracker, progress dashboard and exam-week checklist to make the remaining revision time more focused.</p><a class="button button-primary" href="../seag-revision-plan.html" data-lead-magnet-open>Send me the free plan →</a></aside>''' if is_seag else ""
+    lead_magnet_script = '\n    <script src="../lead-magnet.js"></script>' if is_seag else ""
     schema = {
         "@context": "https://schema.org",
         "@type": "BlogPosting",
@@ -299,7 +303,7 @@ def build_post_page(post: Post) -> str:
     <title>{html.escape(post.seo_title)} | OTA Learning Studio</title>
     <link rel="stylesheet" href="../styles.css" />
     <link rel="stylesheet" href="../pages.css" />
-    <link rel="stylesheet" href="../blog.css" />
+    <link rel="stylesheet" href="../blog.css" />{lead_magnet_css}
     <link rel="stylesheet" href="../consultation-form.css" />
     <link rel="stylesheet" href="../contact-widgets.css" />
     <script src="../analytics.js"></script>
@@ -311,14 +315,14 @@ def build_post_page(post: Post) -> str:
     <main id="main-content">
       <article>
         <header class="post-hero"><div class="container post-hero-inner"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="../index.html">Home</a><span>/</span><a href="../blog.html">Blog</a><span>/</span><span>{html.escape(post.category)}</span></nav><p class="eyebrow"><span></span> {html.escape(post.category)}</p><h1>{html.escape(post.title)}</h1><div class="post-meta"><span>By {html.escape(post.author)}</span><time datetime="{post.published.isoformat()}">{post.display_date}</time><span>{post.read_minutes} min read</span></div></div></header>
-        <div class="container post-layout"><div class="blog-prose">{post.body_html}<div class="post-end-note"><span aria-hidden="true">✦</span><p><strong>Keep the momentum going.</strong> A simple, consistent routine can make returning to school feel much more manageable.</p></div></div><aside class="post-aside"><span class="live-pill">Free parent consultation</span><h2>Would personalised support help?</h2><p>Discuss the learner’s current level, curriculum and goals with OTA Learning Studio.</p><a class="button button-primary" href="{BOOKING_URL}">Book a Free Call →</a><a class="aside-back-link" href="../blog.html">← Back to all articles</a></aside></div>
+        <div class="container post-layout"><div class="blog-prose">{post.body_html}{lead_magnet}<div class="post-end-note"><span aria-hidden="true">✦</span><p><strong>Keep the momentum going.</strong> A simple, consistent routine can make returning to school feel much more manageable.</p></div></div><aside class="post-aside"><span class="live-pill">Free parent consultation</span><h2>Would personalised support help?</h2><p>Discuss the learner’s current level, curriculum and goals with OTA Learning Studio.</p><a class="button button-primary" href="{BOOKING_URL}">Book a Free Call →</a><a class="aside-back-link" href="../blog.html">← Back to all articles</a></aside></div>
       </article>
       <section class="page-cta"><div class="container page-cta-inner"><div><h2>Support that begins with the learner’s real needs.</h2><p>Lessons are personalised, international and designed to build understanding as well as confidence.</p></div><a class="button button-mint" href="{BOOKING_URL}">Choose a time →</a></div></section>
     </main>
     {footer("../")}
     <script src="../script.js"></script>
     <script src="../consultation-form.js"></script>
-    <script src="../contact-widgets.js"></script>
+    <script src="../contact-widgets.js"></script>{lead_magnet_script}
   </body>
 </html>
 '''
