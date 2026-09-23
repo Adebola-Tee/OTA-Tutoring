@@ -59,7 +59,7 @@
   .blog-grid { grid-template-columns: 1fr; }
   .blog-card, .blog-card.featured-post { grid-column: auto; grid-template-columns: .7fr 1.3fr; }
   .post-layout { grid-template-columns: 1fr; gap: 50px; }
-  .post-aside { position: static; max-width: 620px; }
+  .post-aside { position: static; max-width: 620px; order: -1; }
 }
 
 @media (max-width: 640px) {
