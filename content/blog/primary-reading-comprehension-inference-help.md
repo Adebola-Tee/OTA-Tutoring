@@ -2,7 +2,7 @@
 title: My Child Reads Fluently but Struggles With Comprehension: What Helps?
 seo_title: Primary Reading Comprehension Help: Inference and Evidence
 description: Does your child read words fluently but struggle to answer comprehension questions? Try a simple evidence routine for primary reading.
-date: 2026-09-26
+date: 2026-09-28
 category: Primary English Advice
 author: Taiwo Oloyede
 keywords: child reads fluently but struggles with comprehension, primary reading comprehension help, inference questions for kids, online reading tutor
@@ -31,5 +31,13 @@ Keep practice short and varied. A ten-minute conversation around an interesting 
 ## When might a tutor help?
 
 If your child repeatedly answers from memory rather than the passage, or cannot explain the difference between an idea and its evidence, targeted practice can help. An online English tutor can watch how the child reads, ask follow-up questions and model one strategy at a time.
+
+## Model an inference without giving away the answer
+
+Try a short passage: “Amira checked the dark clouds, tucked her book inside her coat and hurried towards the bus stop.” Ask what she might be worried about and which words give that clue. “It may rain” is a plausible inference because of the clouds and the way she protects the book. The question asks the child to connect a clue with a reasonable idea, not invent a detailed story.
+
+Then give a second passage with different clues. If the learner succeeds only when you ask leading questions, return to the text and practise pointing to one useful phrase before explaining what it suggests. Later, ask them to write a complete answer: “I think ... because the text says ...”. The words can vary; the evidence must fit.
+
+If the child reads aloud smoothly, do not assume the challenge is carelessness. Check whether unfamiliar vocabulary, long sentences or the question wording make it difficult to connect ideas. The next lesson should address the specific obstacle you find, using new passages to check whether the improvement lasts.
 
 Bring a recent comprehension task to a [free parent consultation](#consultation). We can identify whether vocabulary, inference or answer structure is the best place to begin. You can also read our guide to [choosing an online primary English tutor](https://otalearningstudio.com/blog/online-english-tutor-for-primary-school-child.html).

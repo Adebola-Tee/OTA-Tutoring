@@ -2,7 +2,7 @@
 title: Online IB Maths Tutor: Choosing Support for AA or AI
 seo_title: Online IB Maths Tutor for AA or AI: What to Ask
 description: Searching for an online IB Maths tutor? Check AA versus AI, SL versus HL and the learning gap before choosing personalised help.
-date: 2026-09-26
+date: 2026-09-28
 category: IB Maths Tutoring
 author: Taiwo Oloyede
 keywords: online IB Maths tutor, IB Mathematics AA tutor online, IB Maths AI tutor, IB Maths SL tutor, IB Maths HL tutor
@@ -30,5 +30,13 @@ If an internal assessment is involved, tutoring should support mathematical unde
 - Send a recent question or topic list in advance.
 - Ask how progress will be checked over several lessons.
 - Discuss the student's goals and available time without expecting a guaranteed score.
+
+## A small diagnostic is more useful than a generic revision plan
+
+Bring two questions: one the student solved correctly and one they could not finish. Have the student explain both aloud. A tutor can then tell whether the difficulty is recalling a method, deciding when to use it, applying algebra accurately or interpreting the answer in context.
+
+For example, a student may know how to calculate a gradient yet hesitate when a problem asks what it means for the quantities being modelled. A productive follow-up is a fresh question with the same underlying idea in a different setting. The student should identify the method and justify the result, not simply repeat the numbers from the example.
+
+The IB offers both Mathematics: analysis and approaches and Mathematics: applications and interpretation at SL and HL. The [IB overview of Diploma mathematics](https://www.ibo.org/programmes/diploma-programme/curriculum/mathematics/) is a useful way to confirm the exact course before comparing tutors. Your teacher's current unit and assessment criteria still determine what to practise first.
 
 OTA Learning Studio offers personalised international online tutoring. If you are considering IB Maths help, [book a free consultation](#consultation) and share your course and the problem you want to solve first.

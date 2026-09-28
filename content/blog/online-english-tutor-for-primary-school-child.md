@@ -2,7 +2,7 @@
 title: Online English Tutor for a Primary School Child: What Should Lessons Include?
 seo_title: Online English Tutor for Primary School Children
 description: Looking for an online English tutor for your primary school child? Learn what reading, writing and speaking support should look like and what to ask first.
-date: 2026-09-26
+date: 2026-09-28
 category: Primary English Tutoring
 author: Taiwo Oloyede
 keywords: online English tutor for primary school child, online English teacher for kids, primary English tutoring online, reading and writing tutor for child
@@ -35,5 +35,13 @@ Ask how the tutor will check reading comprehension, how writing will be reviewed
 If your child enjoys stories but freezes when asked to write, say so. If they speak confidently but struggle to read unfamiliar words, say that too. The starting point changes the lesson.
 
 ## A simple first step
+
+## What progress should look like at home
+
+A useful target is narrower than “get better at English”. A younger child might read a short unfamiliar passage and retell the sequence in their own words. An older child might support one inference with a sentence from the text or improve a paragraph by adding a precise detail. Keep one sample from the first week and compare it with a fresh task after several sessions.
+
+For writing, ask the child to say their idea aloud before they write it. A tutor can help turn the spoken idea into a complete sentence, then ask whether the punctuation and word choice make the meaning clear. Copying a model paragraph may produce neat work without showing what the learner can do alone.
+
+Parents can help without recreating the lesson at home. Read together regularly, ask one open question about a character's choice, and let the child explain their answer. Share that response with the tutor; it gives more information than a score alone.
 
 Bring a recent sample and the child's current school topic to a [free parent consultation](#consultation). We can discuss whether online English tutoring fits the learner and which reading or writing skill deserves attention first. For help choosing any subject tutor, see our [questions to ask an online tutor](https://otalearningstudio.com/blog/how-to-choose-online-maths-tutor-questions-parents-should-ask.html).

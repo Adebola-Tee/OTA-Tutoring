@@ -2,7 +2,7 @@
 title: Online Year 6 SATs Tutor for Maths and English: Where Should You Begin?
 seo_title: Online Year 6 SATs Tutor: Maths and English Help
 description: Considering an online Year 6 SATs tutor? Identify whether Maths, reading or grammar needs support and plan sensible practice without overwhelming your child.
-date: 2026-09-26
+date: 2026-09-28
 category: Primary Exam Tutoring
 author: Taiwo Oloyede
 keywords: online Year 6 SATs tutor, Year 6 Maths tutor online, Year 6 English tutor online, KS2 SATs tutoring online
@@ -30,5 +30,13 @@ A routine of two short practice sessions between tutoring lessons may be easier 
 - Can you explain how you would teach a missed word problem or inference question?
 - How will I see improvement beyond a score?
 - What should we practise at home without repeating the entire lesson?
+
+## Build a short plan from recent work
+
+Start with two or three examples of errors from ordinary school work and a timed practice paper. Separate reading accuracy from comprehension, arithmetic fluency from reasoning, and knowledge gaps from time pressure. A child who can solve a fraction problem calmly at home but rushes past the word “remaining” under time pressure needs different practice from one who does not understand the fraction model.
+
+One useful weekly rhythm is a brief explanation, a few guided questions, independent practice and a fresh mixed question in the next lesson. Keep the practice short enough that the child can review mistakes properly. For reading, ask them to point to the part of the passage that supports their answer instead of guessing from memory.
+
+The Year 6 tests matter, but preparation should not crowd out confidence or everyday learning. Ask the tutor to share one clear priority at a time and show what your child can now do without a prompt. That makes it easier to judge whether tutoring is helping before simply adding more hours.
 
 If your child needs support in just one area, say so. A targeted plan is usually clearer than an indefinite “cover everything” package. Bring their recent work to a [free consultation](#consultation) to discuss a suitable Maths or English starting point.

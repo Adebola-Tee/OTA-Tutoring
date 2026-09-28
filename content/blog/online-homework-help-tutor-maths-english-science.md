@@ -2,7 +2,7 @@
 title: Online Homework Help Tutor for Maths, English or Science: Learn, Don't Copy
 seo_title: Online Homework Help Tutor for Maths, English and Science
 description: Need an online homework help tutor? Learn how a session can teach Maths, English or Science skills while leaving the student's work genuinely their own.
-date: 2026-09-26
+date: 2026-09-28
 category: Online Tutoring Advice
 author: Taiwo Oloyede
 keywords: online homework help tutor, online Maths homework help, English homework tutor, Science homework help online, one to one tutor for homework
@@ -27,5 +27,13 @@ A tutor may solve a *similar* example, ask the student to explain the method, an
 ## One-off help or regular tutoring?
 
 If the same obstacle appears week after week, a recurring lesson may be more useful than repeated emergency help. A good first conversation asks whether there is an underlying skill gap, such as fractions, reading comprehension or interpreting graphs.
+
+## How to avoid doing the homework for the student
+
+Start with a similar example, not the exact graded question. In Maths, the tutor can model a method with different numbers and then ask the student to choose the operation for their own problem. In English, discuss how evidence supports a claim before the student writes their own sentence. In Science, ask what the observation shows and what conclusion the evidence permits.
+
+The student should finish able to explain the method without reading the tutor's notes. If a session ends with every answer filled in but the learner cannot reproduce one independently, the immediate deadline has been met while the underlying difficulty remains.
+
+Before booking, tell the tutor whether the work is ordinary practice, a marked assignment or an assessment with strict rules. Good support respects the school's academic honesty requirements. It is completely reasonable to ask for a plan that teaches the relevant skill without supplying assessed answers.
 
 Parents looking across several subjects should share the student's age and curriculum, then choose the most urgent goal. [Book a free consultation](#consultation) to talk through the homework challenge and whether personalised online lessons are appropriate.

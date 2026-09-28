@@ -2,7 +2,7 @@
 title: Online Coding Tutor for Kids: How to Choose a Good Beginner Lesson
 seo_title: Online Coding Tutor for Kids and Beginners
 description: Looking for an online coding tutor for your child? Learn what a beginner project should involve, which questions to ask and how to judge progress.
-date: 2026-09-26
+date: 2026-09-28
 category: Coding Tutoring
 author: Taiwo Oloyede
 keywords: online coding tutor for kids, coding teacher online for children, beginner programming tutor, online coding lessons for kids
@@ -29,5 +29,13 @@ Ask the tutor how they handle mistakes. Debugging should be a normal part of lea
 ## Questions to ask before you commit
 
 What will the child create in the first few sessions? How much time will be spent watching versus building? Which device and software will they need? Can the tutor adjust the project when a beginner moves faster or slower than expected?
+
+## A practical first project
+
+Ask the child to build something they can describe in one sentence: a short quiz, an animated greeting or a simple game where a character scores points. The lesson should begin with a prediction: what will happen when the user presses this key? Then the child runs the program and compares the result with the prediction. This matters more than finishing a polished project quickly.
+
+For a young beginner, a visual block language can remove the distraction of typing syntax while preserving ideas such as sequence, loops and conditions. An older or more confident learner may be ready for short Python programs. Neither route is inherently better; the appropriate starting point depends on what the child can explain and change independently.
+
+After class, ask the learner to make one small improvement without the tutor's help. Can they change the rules, fix a bug or explain why the code repeats? That tells you whether the child is learning to think with code rather than copying a screen.
 
 If coding is a new interest, there is no need to promise an entire career path on day one. A [free consultation](#consultation) can help you discuss your child's age and goals and decide whether personalised online coding lessons are a good fit.

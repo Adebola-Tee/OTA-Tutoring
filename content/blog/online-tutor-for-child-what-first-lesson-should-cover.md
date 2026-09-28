@@ -2,7 +2,7 @@
 title: Online Tutor for My Child: What Should the First Lesson Cover?
 seo_title: Online Tutor for My Child: First Lesson Checklist
 description: Looking for an online tutor for your child in any year group? Here is what to share before the first lesson and how to tell whether the teaching is a good fit.
-date: 2026-09-26
+date: 2026-09-28
 category: Online Tutoring Advice
 author: Taiwo Oloyede
 keywords: online tutor for my child, online teacher for child, first online tutoring lesson, private tutor online for kids, one to one tutor
@@ -29,5 +29,13 @@ Ask the child to explain one idea from the lesson afterwards. Ask the tutor what
 For younger learners, check that they can stay engaged and use the online tools. For older students, confirm the exact course, level or exam board. If Maths is your priority, these [questions to ask an online Maths tutor](https://otalearningstudio.com/blog/how-to-choose-online-maths-tutor-questions-parents-should-ask.html) are a useful companion.
 
 ## The next step
+
+## What to expect after that first lesson
+
+Ask for a brief summary that names one strength, one priority and one practical next step. It need not be a long report. “She understands the story but needs to quote the passage when explaining an inference” is more actionable than “We covered comprehension”. The next session should build from that observation.
+
+Look for evidence that the tutor adapts rather than simply following a fixed worksheet. If a pupil solves the planned questions quickly, the tutor can ask them to explain *why* the method works or apply it to a less familiar problem. If the pupil cannot begin, the tutor can return to a smaller prerequisite and rebuild from there.
+
+An introductory consultation and the first teaching lesson serve different purposes. The consultation helps you share goals, curriculum, availability and fit; a paid lesson is where the learner begins structured practice. Clarifying that distinction before booking avoids an expectation of a free teaching session.
 
 OTA Learning Studio offers international one-to-one online lessons across the subjects shown on our website. [Book a free parent or student consultation](#consultation) and tell us the learner's year group, subject and goal. We can agree a sensible first step together.
