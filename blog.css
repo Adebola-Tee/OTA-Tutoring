@@ -1,5 +1,5 @@
 .blog-hero .page-hero-card { position: relative; overflow: hidden; }
-.blog-hero .page-hero-card::after { content: "Aa"; position: absolute; right: 18px; top: 8px; color: rgba(143,135,220,.12); font-family: Georgia, serif; font-size: 72px; font-weight: 700; }
+.blog-hero .page-hero-card::after { content: "Aa"; position: absolute; right: 18px; top: 8px; color: rgba(143,135,220,.12); font-family: "Helvetica Neue", Arial, sans-serif; font-size: 72px; font-weight: 700; }
 .blog-search { padding: 42px 0; border-bottom: 1px solid var(--line); background: #fff; }
 .blog-search label { display: grid; max-width: 760px; gap: 9px; margin-inline: auto; }
 .blog-search label span { color: var(--navy); font-size: 11px; font-weight: 900; letter-spacing: .07em; text-transform: uppercase; }
@@ -16,12 +16,12 @@
 .blog-card-visual::after { width: 120px; height: 120px; left: -55px; bottom: -45px; }
 .blog-card-visual span, .blog-card-visual strong, .blog-card-visual i { position: relative; z-index: 1; }
 .blog-card-visual span { margin-bottom: auto; font-size: 9px; font-weight: 900; letter-spacing: .14em; }
-.blog-card-visual strong { max-width: 240px; font-family: Georgia, serif; font-size: clamp(27px, 3vw, 39px); line-height: 1.05; }
+.blog-card-visual strong { max-width: 240px; font-family: "Helvetica Neue", Arial, sans-serif; font-size: clamp(27px, 3vw, 39px); line-height: 1.05; }
 .blog-card-visual i { position: absolute; right: 25px; bottom: 20px; color: rgba(20,33,63,.22); font-size: 25px; font-style: normal; }
 .blog-card-copy { display: flex; flex-direction: column; align-items: flex-start; padding: 32px; }
 .blog-meta { display: flex; flex-wrap: wrap; gap: 8px 14px; color: var(--muted); font-size: 9px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; }
 .blog-meta span:first-child { color: #6760ad; }
-.blog-card h2 { margin: 24px 0 16px; font-family: Georgia, serif; font-size: clamp(25px, 2.3vw, 34px); font-weight: 500; line-height: 1.15; letter-spacing: -.025em; }
+.blog-card h2 { margin: 24px 0 16px; font-family: "Helvetica Neue", Arial, sans-serif; font-size: clamp(25px, 2.3vw, 34px); font-weight: 700; line-height: 1.2; letter-spacing: -.025em; }
 .blog-card h2 a:hover { color: #6760ad; }
 .blog-card-copy > p { color: var(--muted); font-size: 13px; }
 .blog-card-copy .text-link { margin-top: auto; color: var(--navy); font-size: 12px; }
@@ -35,8 +35,8 @@
 .post-meta span + time, .post-meta time + span { position: relative; }
 .post-meta span + time::before, .post-meta time + span::before { content: "•"; position: absolute; left: -15px; color: var(--lavender); }
 .post-layout { display: grid; grid-template-columns: minmax(0, 1fr) 310px; gap: 85px; align-items: start; padding-top: 88px; padding-bottom: 105px; }
-.blog-prose { max-width: 780px; color: #46556f; font-family: Georgia, "Times New Roman", serif; font-size: 19px; line-height: 1.95; }
-.blog-prose > p:first-child { color: var(--navy); font-size: 24px; line-height: 1.7; }
+.blog-prose { max-width: 780px; color: #46556f; font-family: "Helvetica Neue", Arial, sans-serif; font-size: 18px; line-height: 1.78; }
+.blog-prose > p:first-child { color: var(--navy); font-size: 21px; line-height: 1.65; }
 .blog-prose h2 { margin: 60px 0 24px; font-size: 40px; }
 .blog-prose h3 { margin: 44px 0 18px; font-size: 27px; }
 .blog-prose p { margin-bottom: 27px; }
@@ -47,7 +47,7 @@
 .blog-prose hr { margin: 50px 0; border: 0; border-top: 1px solid var(--line); }
 .post-end-note { display: grid; grid-template-columns: auto 1fr; gap: 17px; margin-top: 55px; padding: 25px; border-radius: 18px; background: #f2f0fb; }
 .post-end-note > span { display: grid; width: 42px; height: 42px; place-items: center; border-radius: 50%; color: var(--navy); background: var(--mint); }
-.post-end-note p { margin: 0; color: var(--muted); font-family: Inter, ui-sans-serif, system-ui, sans-serif; font-size: 13px; line-height: 1.7; }
+.post-end-note p { margin: 0; color: var(--muted); font-family: "Helvetica Neue", Arial, sans-serif; font-size: 13px; line-height: 1.7; }
 .post-end-note strong { color: var(--navy); }
 .post-aside { position: sticky; top: 120px; padding: 30px; border: 1px solid var(--line); border-radius: 22px; background: linear-gradient(145deg, #fff, #f5f3fc); box-shadow: 0 20px 50px rgba(20,33,63,.08); }
 .post-aside h2 { margin: 20px 0 13px; font-size: 29px; }
@@ -77,3 +77,11 @@
   .blog-prose h2 { font-size: 34px; }
   .post-end-note { grid-template-columns: 1fr; }
 }
+
+/* The parent consultation card uses the same subtle warm accent. */
+.post-aside {
+  border: 2px solid transparent;
+  background: linear-gradient(145deg, #fff, #f5f3fc) padding-box,
+    linear-gradient(105deg, #e9ad4d, #e78378 48%, #bc739f) border-box;
+}
+.blog-prose h2 { font-weight: 700; letter-spacing: -.025em; line-height: 1.2; }
