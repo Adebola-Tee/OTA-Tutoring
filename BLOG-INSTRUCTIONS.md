@@ -33,3 +33,7 @@ Do not edit the generated files inside the `blog` folder. Make corrections in th
 
 The filename must not contain spaces, capital letters or special characters. Hyphens are used only in the filename and website address, not in the visible article title.
 
+
+## Article length and quality
+
+New articles should be a four minute read, with a minimum of three minutes and a maximum of four. The builder estimates reading time at 200 words per minute; aim for about 650 to 750 words of useful article text and verify the generated page shows `4 min read`. Do not pad an article to meet the length. Include concrete examples, practical advice, accurate official sources where needed, and a relevant consultation invitation. Check existing articles to avoid repeating a topic.
