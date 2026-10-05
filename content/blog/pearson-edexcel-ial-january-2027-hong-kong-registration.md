@@ -20,11 +20,11 @@ draft: false
 
 ---
 
-Students sitting the **Pearson Edexcel International Advanced Level (IAL) January 2027 examinations in Hong Kong** have an important deadline today.
+**Updated 5 October 2026:** The normal and late-entry deadlines below have passed. This guide remains available for candidates checking their completed entry and preparing for the January examinations. Confirm individual arrangements with HKEAA or your centre.
 
-The normal registration window closes on **18 September 2026 at 5:30 p.m. Hong Kong time**.
+The normal registration window closed on **18 September 2026 at 5:30 p.m. Hong Kong time**.
 
-Candidates who miss it will still have a short late-entry window from **21–25 September 2026**, but HKEAA will charge a **HK$538 supplementary fee** on top of the normal examination fees.
+The late-entry window ran from **21–25 September 2026**, with a **HK$538 supplementary fee** on top of the normal examination fees.
 
 For students planning to use previous unit results towards an overall AS or A Level grade, there are also two details that should not be overlooked during registration: the **cash-in code and UCI number**.
 
@@ -106,6 +106,14 @@ Students sitting several units should check for:
 Do this before payment rather than discovering a problem later.
 
 ## Registration is done — what should happen next?
+
+For subject-specific preparation, start with the guide that matches your needs:
+
+* [Online IAL Maths tutoring in Hong Kong](online-edexcel-ial-maths-tutor-hong-kong-january-2027.html)
+* [A three-month January Maths revision plan](edexcel-ial-maths-january-2027-three-month-revision-plan.html)
+* [Preparing for a Maths resit](edexcel-ial-maths-resit-january-2027-unit-priorities.html)
+* [January IAL Chemistry revision](edexcel-ial-chemistry-january-2027-revision-tutor.html)
+* [Finding online IAL Physics support](online-edexcel-ial-physics-tutor-hong-kong-january-2027.html)
 
 January may still feel far away.
 
