@@ -27,6 +27,7 @@ class Post:
     seo_title: str
     description: str
     published: date
+    modified: date
     category: str
     author: str
     keywords: str
@@ -157,8 +158,11 @@ def load_posts() -> list[Post]:
             raise ValueError(f"{path.name}: use only lowercase letters, numbers and hyphens in the filename")
         try:
             published = datetime.strptime(metadata["date"], "%Y-%m-%d").date()
+            modified = datetime.strptime(metadata.get("updated", metadata["date"]), "%Y-%m-%d").date()
+            if modified < published:
+                raise ValueError("updated cannot precede publication")
         except ValueError as error:
-            raise ValueError(f"{path.name}: date must use YYYY-MM-DD") from error
+            raise ValueError(f"{path.name}: date and updated must use YYYY-MM-DD, with updated no earlier than date") from error
 
         word_count = len(re.findall(r"\b[\w’'-]+\b", body))
         posts.append(
@@ -168,6 +172,7 @@ def load_posts() -> list[Post]:
                 seo_title=metadata.get("seo_title", metadata["title"]),
                 description=metadata["description"],
                 published=published,
+                modified=modified,
                 category=metadata["category"],
                 author=metadata.get("author", "Taiwo Oloyede"),
                 keywords=metadata.get("keywords", ""),
@@ -272,7 +277,7 @@ def build_post_page(post: Post) -> str:
         "headline": post.title,
         "description": post.description,
         "datePublished": post.published.isoformat(),
-        "dateModified": post.published.isoformat(),
+        "dateModified": post.modified.isoformat(),
         "author": {"@type": "Person", "name": post.author},
         "publisher": {"@type": "EducationalOrganization", "name": "OTA Learning Studio", "url": f"{SITE_URL}/"},
         "mainEntityOfPage": {"@type": "WebPage", "@id": post.url},
@@ -336,7 +341,7 @@ def update_sitemap(posts: list[Post]) -> None:
     if start not in sitemap or end not in sitemap:
         raise ValueError("sitemap.xml is missing the blog post markers")
     entries = "\n".join(
-        f"  <url><loc>{post.url}</loc><lastmod>{post.published.isoformat()}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>"
+        f"  <url><loc>{post.url}</loc><lastmod>{post.modified.isoformat()}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>"
         for post in posts
     )
     replacement = f"{start}\n{entries}\n{end}" if entries else f"{start}\n{end}"
