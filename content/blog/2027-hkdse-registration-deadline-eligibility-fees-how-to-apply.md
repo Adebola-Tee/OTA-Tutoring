@@ -1,9 +1,9 @@
 ---
-title: 2027 HKDSE Registration: Deadline, Eligibility, Fees and How to Apply
+title: 2027 HKDSE registration deadlines and exam fee payment
 
 seo_title: 2027 HKDSE Registration Deadline, Fees and How to Apply
 
-description: Registration for the 2027 HKDSE is now open. Check the October deadline, eligibility rules for school and private candidates, examination fees and how to register.
+description: HKDSE 2027 registration closed on 7 October. Check the 14 October fee payment deadline, late payment arrangements and next steps for exam preparation.
 
 date: 2026-09-15
 
@@ -19,15 +19,19 @@ draft: false
 
 ---
 
-Registration for the **2027 Hong Kong Diploma of Secondary Education Examination (HKDSE)** is now open.
+**Updated 14 October 2026.**
 
-Students intending to sit the examination next year can register between **11 September and 7 October 2026**, with examination fees due by **11:59 p.m. on 14 October 2026**.
+The normal registration period for the **2027 Hong Kong Diploma of Secondary Education Examination (HKDSE)** closed on 7 October 2026. The exam fee payment deadline is 11:59 p.m. on 14 October 2026, according to [HKEAA’s important dates](https://www.hkeaa.edu.hk/en/hkdse/event_timetable/).
 
-Whether your child is entering through a school or registering as a private candidate, these are the dates families should not miss.
+The normal registration window ran from **11 September to 7 October 2026**, with examination fees due by **11:59 p.m. on 14 October 2026**.
+
+Whether your child is entering through a school or registering as a private candidate, check your completed entry and payment through your school or HKEAA. OTA Learning Studio provides tutoring and does not register candidates or collect examination fees.
+
+Once the administrative details are settled, choose a preparation priority. See our [HKDSE Maths tutoring guide](https://otalearningstudio.com/blog/online-hkdse-maths-tutor-hong-kong-2027.html) or [Biology data question support](https://otalearningstudio.com/blog/hkdse-biology-data-questions-good-students-lose-marks.html). A [free consultation](#consultation) is a chance to discuss paid online lessons, suitable times and the learner’s current work.
 
 ## 2027 HKDSE registration deadline
 
-The main registration period is:
+The normal registration period was:
 
 **11 September – 7 October 2026**
 

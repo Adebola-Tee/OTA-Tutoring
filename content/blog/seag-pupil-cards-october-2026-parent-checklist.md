@@ -1,7 +1,7 @@
 ---
-title: SEAG pupil cards arrive on 9 October 2026
+title: How to download and check your SEAG pupil card for 2026
 seo_title: SEAG Pupil Cards 2026 | What Parents Should Check
-description: SEAG pupil cards become available on 9 October. See what to check before the November assessments and how to use the remaining weeks wisely.
+description: SEAG pupil cards are available now. Find the official parent login, check assessment centre details and prepare for the November 2026 papers.
 date: 2026-10-03
 category: Northern Ireland SEAG Preparation
 author: Taiwo Oloyede
@@ -10,17 +10,21 @@ featured: false
 draft: false
 ---
 
-If your child is registered for the 2026 SEAG Entrance Assessment, put **Friday 9 October** in your diary. The [official SEAG key dates page](https://seagni.co.uk/guidance-for-parents/key-dates-milestones) says pupil cards will be available to download, review and print then. Paper 1 is scheduled for 14 November and Paper 2 for 21 November.
+**Updated 14 October 2026.**
+
+If your child is registered for the 2026 SEAG Entrance Assessment, your pupil card is now available through the official parent or guardian account. The [official SEAG key dates page](https://seagni.co.uk/guidance-for-parents/key-dates-milestones) lists 9 October as the date cards became available to download, review and print. Paper 1 is scheduled for 14 November and Paper 2 for 21 November.
 
 The card is an administrative step, but it can prevent a stressful surprise. Make time to check it while there is still room to ask questions and plan the journey. Do not assume that the details on a previous registration email are all you need on test day.
 
 ## Check the card against your records
 
-Log into the official SEAG parent or guardian account when the card becomes available. Review the pupil's personal details and the assessment centre information shown on the card against the application you submitted. Read any accompanying instructions about what to print, bring and do on arrival. SEAG's live guidance is the authority if a detail is unclear.
+Use the parent login on the [official SEAG website](https://seagni.co.uk/) to download your card. OTA Learning Studio cannot access or change your application. Review the pupil's personal details and the assessment centre information shown on the card against the application you submitted. Read any accompanying instructions about what to print, bring and do on arrival. SEAG's live guidance is the authority if a detail is unclear.
 
 If something looks wrong, contact SEAG through its official channels promptly. A tutor cannot amend a pupil application or promise a change of centre. Keep the card and any updated instructions in an easy to find place rather than relying on a screenshot shared in a family chat.
 
 Try the route to the centre in advance. Consider travel time, parking or public transport, and a quieter alternative if a disruption occurs. Ask the child whether they know what the venue looks like and what they will do on arrival. Familiarity can make a new setting less daunting.
+
+For learning support after checking the card, see [what to practise now](https://otalearningstudio.com/blog/what-to-practise-after-seag-pupil-card-2026.html) or request a [free parent consultation](#consultation) about paid Maths or English lessons before November.
 
 ## Keep administrative tasks separate from revision
 
