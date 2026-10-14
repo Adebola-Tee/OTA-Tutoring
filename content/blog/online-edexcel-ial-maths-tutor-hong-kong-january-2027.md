@@ -1,7 +1,7 @@
 ---
-title: Online Edexcel IAL Maths tutoring in Hong Kong for January 2027
+title: Online Edexcel IAL Maths tutoring after January registration
 seo_title: Online Edexcel IAL Maths Tutor Hong Kong
-description: Looking for Edexcel IAL Maths tutoring in Hong Kong? Match January 2027 lessons to your units, recent working and target grade.
+description: Registered for January 2027 Edexcel IAL Maths in Hong Kong? Match online tutoring to your entered units, algebra gaps and independent exam practice.
 date: 2026-10-05
 category: Hong Kong IAL Maths Tutoring
 author: Taiwo Oloyede
@@ -10,7 +10,11 @@ featured: false
 draft: false
 ---
 
-Looking for an online Edexcel IAL Maths tutor in Hong Kong is easier when you know what the lessons need to achieve. A student preparing for Pure Mathematics 1 needs a different starting point from someone retaking Statistics 1 or working through Pure Mathematics 4. The course name alone does not tell a tutor enough.
+**Updated 14 October 2026.**
+
+Registered for January 2027 Edexcel IAL Maths in Hong Kong? At OTA Learning Studio, we plan paid online lessons around your entered units, recent working and target grade. [Book a free parent or student consultation](#consultation) to discuss the starting point and lesson availability in Hong Kong time.
+
+A student preparing for Pure Mathematics 1 needs different support from someone retaking Statistics 1 or working through Pure Mathematics 4. The course name alone does not tell a tutor enough.
 
 The January 2027 series runs from 8 to 25 January through HKEAA. Confirm the date of each entered unit with your centre. Our [Hong Kong registration guide](pearson-edexcel-ial-january-2027-hong-kong-registration.html) explains the entry details; this article focuses on what useful tuition should look like after registration.
 

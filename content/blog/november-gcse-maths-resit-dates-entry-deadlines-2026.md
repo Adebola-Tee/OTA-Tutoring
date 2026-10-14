@@ -1,7 +1,7 @@
 ---
 title: November GCSE Maths Resit Dates and Entry Deadlines 2026
 seo_title: November GCSE Maths Resit Dates and Entry Deadlines 2026
-description: Find the November 2026 GCSE Maths resit dates, entry deadline, eligibility rules and key information for AQA and Edexcel students preparing to retake Maths.
+description: November 2026 GCSE Maths resits are on 4, 6 and 9 November. Check your entry and tier, what to do after the standard deadline, and revision priorities.
 date: 2026-09-01
 category: GCSE Advice
 author: Taiwo Oloyede
@@ -10,7 +10,11 @@ featured: false
 draft: false
 ---
 
-If you are planning to retake GCSE Maths in November 2026, there are two dates you need to know immediately: **when the exams take place and when you need to enter for them**.
+**Updated 14 October 2026:** The standard entry deadline below has passed. If you have not arranged an entry, contact your school, college or exam centre now about whether a late entry remains possible and what fees apply. Tutoring does not register you for an examination.
+
+Already entered? Our [three week GCSE Maths preparation guide](gcse-maths-resit-tutor-final-month-november-2026.html) helps you choose revision priorities. [Book a free parent or student consultation](#consultation) to discuss paid online Maths lessons around your board, tier and recent work.
+
+If you are retaking GCSE Maths in November 2026, check both **when the exams take place and whether your entry has been confirmed**.
 
 The November GCSE Maths resit series takes place in early November, with the three Maths papers scheduled for **Wednesday 4 November, Friday 6 November and Monday 9 November 2026**.
 

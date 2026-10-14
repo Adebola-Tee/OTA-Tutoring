@@ -1,10 +1,10 @@
 ---
 
-title: Pearson Edexcel IAL January 2027 Hong Kong Registration: Deadline, Fees, Cash-In Rules and Exam Dates
+title: January 2027 Edexcel IAL Hong Kong registration and next steps
 
-seo_title: Pearson Edexcel IAL January 2027 Hong Kong Registration Deadline
+seo_title: January 2027 IAL Hong Kong Registration and Exam Preparation
 
-description: Pearson Edexcel IAL January 2027 registration in Hong Kong closes on 18 September 2026. Check late-entry fees, cash-in rules, UCI requirements and exam dates.
+description: January 2027 IAL registration in Hong Kong has closed. Check your completed entry, cash in code and UCI, then plan Maths or Science preparation.
 
 date: 2026-09-18
 
@@ -20,7 +20,9 @@ draft: false
 
 ---
 
-**Updated 5 October 2026:** The normal and late-entry deadlines below have passed. This guide remains available for candidates checking their completed entry and preparing for the January examinations. Confirm individual arrangements with HKEAA or your centre.
+**Updated 14 October 2026:** The normal and late-entry deadlines below have passed. This guide remains available for candidates checking their completed entry and preparing for the January examinations. Confirm individual arrangements with HKEAA or your centre.
+
+Already registered? Start with our [online IAL Maths tutoring guide](online-edexcel-ial-maths-tutor-hong-kong-january-2027.html) or [IAL Chemistry tutoring guide](online-edexcel-ial-chemistry-tutor-hong-kong.html). You can also [book a free parent or student consultation](#consultation) to discuss paid online lessons, entered units and availability in Hong Kong time.
 
 The normal registration window closed on **18 September 2026 at 5:30 p.m. Hong Kong time**.
 

@@ -1,7 +1,7 @@
 ---
-title: Math Kangaroo 2027 Registration Is Open: Dates, Fees, Eligibility and How to Register
+title: Math Kangaroo 2027 registration dates fees and eligibility
 
-seo_title: Math Kangaroo 2027 Registration: Dates, Fees and Eligibility
+seo_title: Math Kangaroo 2027 Registration Dates Fees and Eligibility
 
 description: Math Kangaroo 2027 registration is now open for K–12 students in the USA. Check registration deadlines, eligibility, competition date, centres and how to prepare.
 
@@ -19,7 +19,9 @@ draft: false
 
 ---
 
-Registration for the **Math Kangaroo 2027 Individual Competition** is now open for students across the United States.
+**Updated 14 October 2026.** Registration for the **Math Kangaroo 2027 Individual Competition** is now open for students across the United States.
+
+For the learning side, read [how to prepare for Math Kangaroo without endless worksheets](math-kangaroo-2027-preparation-problem-solving.html). It includes original counting and logic tasks, with a route to discuss paid online Maths enrichment through a [free parent consultation](#consultation).
 
 The competition is open to **Grades K–12** and will take place on **Thursday, 18 March 2027**. This is also a special year for Math Kangaroo USA, marking its **30th Individual Competition**. ([mathkangaroo.org](https://mathkangaroo.org/mks/?utm_source=chatgpt.com))
 
@@ -59,7 +61,7 @@ The competition is built around **mathematical thinking, logic and problem-solvi
 
 Math Kangaroo has published a lower fee during the regular registration period and a higher fee for late registration.
 
-For the 2027 competition, its official information currently lists the late registration fee as **$35 per student** through 1 February 2027. Families should confirm the regular-registration amount shown during checkout because Math Kangaroo’s current official pages display differing regular-fee information. ([mathkangaroo.org](https://mathkangaroo.org/mks/registration/?utm_source=chatgpt.com)) ([mathkangaroo.org](https://mathkangaroo.org/mks/resources/how-to-start-math-kangaroo-center/?utm_source=chatgpt.com))
+For the 2027 competition, the official registration page lists **$20 per student from 15 September to 31 December**, and **$35 for late registration from 1 January to 1 February**. Confirm the amount and conditions during checkout. ([mathkangaroo.org](https://mathkangaroo.org/mks/registration/))
 
 Registering during the regular period is therefore the safest option both for availability and cost.
 
@@ -67,13 +69,7 @@ Registering during the regular period is therefore the safest option both for av
 
 Families can choose from several participation formats depending on availability.
 
-These can include:
-
-* in-person centres
-* school-based centres
-* proctored online centres
-* remote participation
-* virtual self-proctored participation
+The official registration page currently lists registration at proctored in-person or online centres as open, while remote and self-proctored virtual registration is shown as closed. Check the options currently offered rather than assuming every format is available.
 
 Public centres accept students from different schools, while private centres normally require an invitation code from the school or organisation hosting the competition. ([mathkangaroo.org](https://mathkangaroo.org/mks/registration/?utm_source=chatgpt.com))
 

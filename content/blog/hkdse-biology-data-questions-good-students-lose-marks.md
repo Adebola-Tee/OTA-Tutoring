@@ -1,7 +1,7 @@
 ---
-title: HKDSE Biology Data Questions: Why Good Students Still Lose Marks
-seo_title: HKDSE Biology Data Questions: Why Students Lose Marks
-description: Strong students often lose marks on HKDSE Biology data questions. Learn how to describe patterns, use evidence and explain results precisely.
+title: Online HKDSE Biology tutoring for data questions
+seo_title: Online HKDSE Biology Tutor for Graphs and Data Questions
+description: Looking for HKDSE Biology tutoring? Practise graph descriptions, percentage changes and evidence based explanations with an original enzyme example.
 date: 2026-09-23
 category: HKDSE Biology Advice
 author: Taiwo Oloyede
@@ -10,9 +10,9 @@ featured: false
 draft: false
 ---
 
-Some students know their Biology thoroughly but lose a surprising number of marks on **HKDSE Biology data questions**. They recognise the topic, understand the experiment and may even predict the conclusion correctly.
+**Updated 14 October 2026.**
 
-The difficulty is turning a graph, table or unfamiliar investigation into the exact response requested.
+Our online HKDSE Biology tutoring helps students connect biological knowledge to graphs, tables and investigation questions. If your child knows the topic but cannot explain the data clearly, bring a recent answer to a [free parent consultation](#consultation). We can discuss a focused starting point for paid lessons and suitable times in Hong Kong time.
 
 ## Description and explanation are different
 
@@ -33,6 +33,14 @@ Before writing, ask:
 - Are there anomalies?
 - Which two values provide the clearest comparison?
 - Are the axes linear, logarithmic or broken?
+
+## Try a data task before another full paper
+
+In this original teaching example, an enzyme produces 12 cm³ of gas per minute at 20°C, 24 cm³ at 30°C and 18 cm³ at 40°C. To describe the results, state that the measured rate rises from 12 to 24 cm³ per minute between 20°C and 30°C, then falls to 18 cm³ per minute at 40°C.
+
+The increase from 12 to 24 is 100%, calculated as (24 − 12) ÷ 12 × 100. The highest measured rate is at 30°C, but these three readings do not establish the exact optimum temperature. Further measurements between temperatures could refine that conclusion.
+
+For an explanation, discuss how temperature affects molecular movement and enzyme function, while recognising that a decrease alone does not prove denaturation. Check the investigation's conditions and controls before making that claim. Description, calculation and explanation are separate tasks.
 
 ## Correlation is mistaken for cause
 
@@ -79,6 +87,6 @@ Useful language includes “increased from…to…”, “approximately twice”
 
 Create short drills using one graph at a time: first write a description without explanation, then add a separate biological explanation. Keeping the tasks separate trains students to recognise the demand of the command word.
 
-Finally, ask what conclusion cannot be made from the data. Recognising limitations is an important part of scientific judgement and prevents overclaiming.
+Finally, ask what conclusion cannot be made from the data. Recognising limitations prevents overclaiming.
 
 At **OTA Learning Studio**, we teach students how to read data carefully, select evidence and build precise biological explanations. [Book a free consultation](#consultation) if data questions are repeatedly lowering your child’s HKDSE Biology result.

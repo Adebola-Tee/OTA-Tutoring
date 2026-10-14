@@ -1,7 +1,7 @@
 ---
-title: Online A-level Chemistry Tutor: Calculations and Organic Chemistry Help
-seo_title: Online A-level Chemistry Tutor for Calculations and Organic
-description: Need an online A-level Chemistry tutor? Find a sensible starting point for mole calculations, organic mechanisms and exam questions.
+title: Online A Level Chemistry tutoring for exam preparation
+seo_title: Online A Level Chemistry Tutor for Exam Preparation
+description: Looking for an online A Level Chemistry tutor? See a worked titration example, organic reaction checks and what to expect from focused paid lessons.
 date: 2026-09-27
 category: A-level Chemistry Tutoring
 author: Taiwo Oloyede
@@ -10,7 +10,11 @@ featured: false
 draft: false
 ---
 
-“A-level Chemistry is hard” is true for many students, but it does not tell an **online A-level Chemistry tutor** where to start. The course combines physical, inorganic and organic ideas. A calculation problem, a reaction pathway and an explanation question can go wrong for completely different reasons.
+**Updated 14 October 2026.**
+
+Looking for an **online A Level Chemistry tutor**? At OTA Learning Studio, we discuss your exam board, recent work and priorities before planning paid online lessons through Google Meet. A [free parent consultation](#consultation) is a chance to identify a useful starting point and discuss availability, not a free teaching session.
+
+The course combines physical, inorganic and organic ideas. A calculation problem, a reaction pathway and an explanation question can go wrong for different reasons. Lessons should address the actual missing step, whether the student needs support with foundations or more demanding application.
 
 ## If calculations are the problem
 
@@ -18,11 +22,19 @@ Begin with a worked question *you attempted*. List what you know, the units you 
 
 A tutor should model a method, then ask you to explain why each step works. Follow it with a new question that uses the same principle in a different context.
 
+## Work through a calculation before choosing support
+
+In this original example, 25.0 cm³ of hydrochloric acid is neutralised by 20.0 cm³ of 0.100 mol dm⁻³ sodium hydroxide. The balanced equation gives a 1:1 mole ratio. Convert the sodium hydroxide volume to 0.0200 dm³, then calculate its amount: 0.100 × 0.0200 = 0.00200 mol.
+
+The acid therefore contains 0.00200 mol in 0.0250 dm³. Its concentration is 0.00200 ÷ 0.0250 = 0.0800 mol dm⁻³. Ask the student why each volume belongs in a particular step. Swapping the volumes or forgetting the conversion reveals a different problem from misunderstanding the reacting ratio.
+
+Change the acid to one requiring a different balanced ratio and ask what must change in the method. This tests chemical understanding rather than memory of a calculator sequence.
+
 ## If organic chemistry is the problem
 
 Do not start by memorising a long wall of reactions. Draw the starting material and product. Identify which bond changes, what conditions are given and why a particular route makes sense. Ask which distinctions you need for *your* syllabus. Mechanisms become easier to recall when you can explain electron movement rather than reproduce arrows mechanically.
 
-The [AQA A-level Chemistry subject content](https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/subject-content) separates physical, inorganic and organic Chemistry. A tutor should still check your exact exam board and current teaching sequence before planning lessons.
+The [AQA A Level Chemistry subject content](https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/subject-content) separates physical, inorganic and organic Chemistry. A tutor should check your exact exam board and teaching sequence before planning lessons. UK A Level and International A Level are different qualifications; the resources must match the learner's course.
 
 ## How should lessons be organised?
 
