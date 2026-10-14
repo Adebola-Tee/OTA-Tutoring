@@ -1,8 +1,9 @@
 ---
-title: Online A Level Chemistry tutoring for exam preparation
-seo_title: Online A Level Chemistry Tutor for Exam Preparation
-description: Looking for an online A Level Chemistry tutor? See a worked titration example, organic reaction checks and what to expect from focused paid lessons.
+title: How to choose an online A Level Chemistry tutor
+seo_title: Choosing an Online A Level Chemistry Tutor
+description: Choose online A Level Chemistry tutoring around your exam board, calculations and organic chemistry. See a lesson example and discuss a plan with Taiwo.
 date: 2026-09-27
+updated: 2026-10-14
 category: A-level Chemistry Tutoring
 author: Taiwo Oloyede
 keywords: online A-level Chemistry tutor, A-level Chemistry tutor online, organic chemistry tutor, A-level mole calculations help, Chemistry teacher online
@@ -42,12 +43,12 @@ Take a recent assessment and tag errors by cause: concept, calculation, reaction
 
 Finish each lesson with a short independent task and review it next time. A student who can explain one mechanism to the tutor but cannot recognise it on a new paper needs more varied retrieval and application.
 
-## Before booking
+## Agree the fit before booking
 
-Ask which A-level specifications the tutor teaches, what recent work they want to see and how they will track whether a weak topic has improved. Bring your course details and two attempted questions to a [free consultation](#consultation). We can discuss whether calculations, organic Chemistry or another current unit should come first.
+Bring your course details and two attempted questions to a [free consultation](#consultation). We discuss the requested specification, current topic, suitable lesson times and fee privately before booking. Confirm availability and course suitability rather than assuming every A Level follows the same sequence. You can [meet Taiwo](../index.html#about) and read our [published parent feedback](../testimonials.html). The conversation should leave you clearer about what the first paid lesson would address.
 
-## Try a quick self-check before the first lesson
+## Check what independent progress would look like
 
 Take one missed calculation and write a sentence next to each line of working explaining what that line represents. If you cannot explain a conversion, that is probably where the teaching should begin. For an organic question, circle the functional group in the starting material and in the product. Identify the structural change before recalling reagents and conditions.
 
-Keep the original incorrect answer. A tutor who sees the whole attempt can identify a repeated thinking pattern. An answer key with only the final result cannot show whether the student misunderstood the chemistry or made one arithmetic slip.
+Keep the original incorrect answer and compare it with a fresh attempt later. Can the student choose the method and justify the reacting ratio without prompts? Agree a small practice task and a review point. More completed papers alone do not show that the same mistake has stopped recurring.
