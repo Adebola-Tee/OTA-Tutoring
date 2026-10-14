@@ -487,3 +487,6 @@ h3 { font-weight: 700; letter-spacing: -.02em; }
   background: linear-gradient(#fff, #fff) padding-box,
     linear-gradient(105deg, #e9ad4d, #e78378 48%, #bc739f) border-box;
 }
+
+.hero-enquiry-note { max-width: 560px; font-size: 15px; line-height: 1.65; color: #55627b; margin: 18px 0; }
+.hero-enquiry-note a { color: #14213f; text-decoration: underline; }
