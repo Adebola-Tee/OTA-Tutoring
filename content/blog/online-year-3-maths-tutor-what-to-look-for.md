@@ -1,42 +1,54 @@
 ---
-title: Looking for an Online Year 3 Maths Tutor? Start With These Skills
-seo_title: Online Year 3 Maths Tutor: What Parents Should Look For
-description: Choosing an online Year 3 Maths tutor? See which number skills to check, how lessons should work and what to ask before booking.
+title: What happens in an online Year 3 Maths lesson
+seo_title: Online Year 3 Maths Lessons With an Active Role for Your Child
+description: See how online Year 3 Maths tutoring works through multiplication and place value examples, independent practice and a free parent consultation.
 date: 2026-09-28
+updated: 2026-10-15
 category: Primary Maths Tutoring
 author: Taiwo Oloyede
-keywords: online Year 3 Maths tutor, Year 3 Maths tutor online, primary Maths tutor for child, online Maths teacher Year 3
+keywords: online Year 3 Maths tutor, Year 3 Maths lessons online, primary maths tutoring UK
 featured: false
 draft: false
 ---
 
-You do not have to wait for a failed test to search for an **online Year 3 Maths tutor**. Some parents want to help a child who enjoys Maths move forward confidently; others have spotted a small gap before it grows. Both are reasonable reasons to ask for support.
+**Updated 15 October 2026.**
 
-## What matters in Year 3 Maths?
+An online Year 3 Maths lesson should give your child something to do, explain and try independently. A lively screen is useful only if the learner is thinking. Whether you want extra challenge, steadier number skills or support with schoolwork, ask what your child will actually practise during the session.
 
-Number sense comes first. Can the child explain place value? Do they see multiplication as equal groups and division as sharing or grouping? Can they describe what a fraction of an amount means? England's [Year 3 mathematics programme](https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study/national-curriculum-in-england-mathematics-programmes-of-study) includes multiplication and division, fractions, measurement and problem solving. Schools outside England may sequence these differently.
+At OTA Learning Studio, paid lessons take place through Google Meet. Before booking, our [free parent consultation](#consultation) lets us discuss recent work, your child's interests, suitable times and the fee. The example below shows how a lesson could develop; the starting point depends on the learner.
 
-Try an everyday question: “There are four bags with three apples in each. How many apples?” A confident child may answer 12; ask *how* they know. If they count one by one, an array or drawing can build a more flexible strategy.
+## Begin with a conversation about numbers
 
-## How should an online lesson work for an eight-year-old?
+A tutor might write 246 and ask what the 4 represents. Saying “four” is different from explaining “four tens, which is forty.” Asking the child to represent the number with a drawing can reveal understanding that a quick answer hides.
 
-A good lesson is interactive and changes pace. The tutor might show counters on screen, invite the child to draw an array, practise one method with a few questions and finish with a word problem. A parent can help the child connect and get settled, then allow them to do the thinking.
+Next, change it to 264. Which digit now represents the tens? This is a small adjustment, but it checks whether the child can use place value rather than repeat the first explanation. If hundreds, tens and ones are uncertain, we work there before expecting accurate written calculations.
 
-Ask to see how mistakes are used. If a child says that one quarter of 20 is 20 divided by 4, can they also show why with a picture? If they cannot, the tutor has found something valuable to teach.
+## Build a multiplication idea the child can see
 
-## Before booking, ask these four questions
+Here is an original teaching example: four bags each contain three apples. How many apples are there altogether? The child could draw four groups of three and count 12. We connect that picture with 4 × 3 = 12 and discuss what each number describes.
 
-- How will you check what my child already knows?
-- Which curriculum or school topics will you follow?
-- How will you keep them participating rather than watching?
-- What short practice can we do between lessons?
+Now ask what happens if another bag is added. There are five groups of three, so the total becomes 15. The learner has adapted a known fact instead of starting from scratch. A child who already understands this can explain how six groups of three relate to five groups.
 
-## A simple way to spot a hidden number gap
+If the child gives an incorrect total, the drawing helps us locate the difficulty. Did they draw unequal groups, overlook a bag or miscount? Each calls for different feedback. Simply showing the correct answer would miss the chance to understand their thinking.
 
-Give the child 46 counters or draw 46 dots, then ask how they could show the number more quickly. Grouping ten at a time reveals whether “four tens and six ones” is a usable idea rather than a memorised phrase. Try 64 next and ask what changed. This short conversation can tell a tutor more than a page of one-digit sums.
+## Connect the lesson with school learning
 
-For multiplication, move between objects, pictures and symbols. Three rows of four counters, a drawn array and 3 × 4 should all describe the same quantity. The child should have time to explain the connection. If they know the answer 12 but cannot show why, visual models can help them solve unfamiliar word problems later.
+England's [Year 3 Maths programme](https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study/national-curriculum-in-england-mathematics-programmes-of-study#year-3-programme-of-study) includes number, calculation, fractions, measurement, geometry and statistics. A lesson should have a manageable focus rather than attempt every strand at once. Bring the current school topic so support can connect with classroom work.
 
-Agree one small target for the first few lessons, such as explaining place value or choosing a multiplication strategy. Check it with a new example after a week or two. Progress at this age is easier to see in clearer reasoning and growing independence than in a promise to accelerate through the entire curriculum.
+The year label needs checking too. Families following a British curriculum overseas should share their school's sequence. For other education systems, tell us the curriculum and current work; similar year names do not always mean identical expectations.
 
-You do not need to purchase months of lessons before learning whether the fit is right. Bring a recent worksheet to a [free parent consultation](#consultation), and we can decide whether one-to-one Maths support is useful now. You may also like our guide to [choosing an online Maths tutor](https://otalearningstudio.com/blog/how-to-choose-online-maths-tutor-questions-parents-should-ask.html).
+## Keep participation practical online
+
+Prepare paper, a pencil and a few small objects such as counters. Agree how your child will show written work, perhaps by holding paper clearly to the camera. Screen sharing can support the explanation, while objects and drawings give the child ways to participate away from the screen.
+
+A parent can help with joining and equipment, particularly initially. Once a task is understood, allow thinking time. Answering for the child makes it harder to see what needs teaching. Tell us about practical access or attention needs before lessons so we can discuss a workable arrangement.
+
+## Finish with a fresh question
+
+An independent check could use three boxes containing eight crayons each. Can your child show the groups, calculate 24 and explain the answer without being walked through the previous example? Later practice can revisit the idea with different objects or numbers.
+
+Progress might mean using groups instead of counting every item, explaining a digit's value or beginning a problem with less prompting. Keep an early example to compare with later work. Our guide to [planning weekly Maths tutoring](maths-tutoring-sessions-per-week.html) explains how practice and teaching can fit together.
+
+## Find out whether the approach suits your child
+
+[Meet Taiwo](../index.html#about), read our [parent feedback](../testimonials.html) and bring a recent worksheet to your free consultation. We can discuss a sensible first priority and paid lesson arrangements privately. You should leave the conversation understanding what support could involve before deciding whether to book.

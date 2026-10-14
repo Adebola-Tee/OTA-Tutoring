@@ -1,212 +1,56 @@
 ---
-
-title: How to Choose an Online Maths Tutor for Your Child — Questions Parents Should Ask
-
+title: How to choose an online Maths tutor for your child
 seo_title: How to Choose an Online Maths Tutor for Your Child
-
-description: Looking for an online Maths tutor for your child? Here are the questions parents should ask before booking lessons, from teaching style and exam boards to progress tracking.
-
+description: Compare online Maths tutors through curriculum fit, teaching examples, independent progress and practical lesson arrangements before booking support for your child.
 date: 2026-09-21
-
+updated: 2026-10-15
 category: Online Tutoring Advice
-
 author: Taiwo Oloyede
-
-keywords: how to choose an online maths tutor, online maths tutor for child, best online maths tutor, questions to ask a maths tutor, maths tutoring online, GCSE maths tutor online, private maths tutor, online tutoring for children
-
+keywords: how to choose an online maths tutor, primary school maths tutor online, online maths tutor for child, questions to ask maths tutor
 featured: false
-
 draft: false
-
 ---
 
-Finding an **online Maths tutor for your child** is easy.
+**Updated 15 October 2026.**
 
-Finding the *right* one is harder.
+Choosing an online Maths tutor means choosing someone who can understand your child's thinking and respond to it. A polished profile is a starting point. Before booking regular lessons, find out how the tutor would teach, how your child would participate and what evidence would show that support is useful.
 
-A tutor can have excellent Maths knowledge and still be completely wrong for your child.
+For a primary school child, this includes practical questions about drawings, equipment and adult help. Older learners also need a clear match with their school course. The questions below help you compare the teaching rather than rely on broad claims about confidence or results.
 
-Before committing to weeks or months of lessons, parents should know what they are actually paying for — and what questions to ask.
+## Ask what the tutor needs to see first
 
-## 1. “How will you find out what my child is struggling with?”
+Share the year group, curriculum, current topic and a recent piece of work. Include something your child does well. A tutor planning enrichment needs to understand strengths just as carefully as a tutor addressing a difficulty.
 
-This should be one of your first questions.
+Listen for a specific starting point. “We will check whether place value is affecting subtraction” tells you more than “We cover everything.” One worksheet cannot establish every need, but the tutor should explain what they would investigate and how that could inform the first lessons.
 
-Be cautious if the answer is simply:
+## Ask for an example of an explanation
 
-**“We’ll start from the syllabus.”**
+Try this original primary example: a child thinks 402 − 178 equals 376 because they subtract the smaller digit from the larger in each column. Would the tutor simply repeat the written method, or explore the value of each digit?
 
-Your child probably does not need every topic retaught from the beginning.
+A useful explanation can show that 402 becomes three hundreds, nine tens and twelve ones after exchanging. Subtracting one hundred, seven tens and eight ones leaves two hundreds, two tens and four ones: 224. The child should connect the exchanges with the quantities, then check by adding 178 and 224 to get 402.
 
-A good tutor should first find out:
+You need not give a tutor an interview test. You are asking whether explanations can change when a learner is confused. For a younger child, objects and drawings may help; for an older learner, a numerical example or diagram may reveal the same underlying idea.
 
-* current year group
-* recent grades
-* school curriculum or exam board
-* stronger and weaker topics
-* target grade or academic goal
-* whether the problem is knowledge, confidence or exam technique
+## Check the curriculum fit
 
-That might involve a short diagnostic, looking through a recent test or simply working through carefully selected questions.
+England's [Maths curriculum](https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study/national-curriculum-in-england-mathematics-programmes-of-study) sets out content across school stages, but schools can sequence topics differently. Bring your school's information rather than assume the year name tells the tutor everything. International curricula need their own checks.
 
-The first lesson should give the tutor useful information about the child — not just fill an hour.
+For GCSE or another qualification, confirm the exam board, course and tier where relevant. Ask which materials the tutor would use and how those match the learner's assessment. Our [first GCSE Maths lesson guide](online-gcse-maths-tutoring-first-lesson.html) gives a more detailed example for that stage.
 
-Parents preparing for GCSEs can read our guide on [what to expect from the first online GCSE Maths lesson](https://otalearningstudio.com/blog/online-gcse-maths-tutoring-first-lesson.html).
+## Find out who does the thinking online
 
-## 2. “Do you teach my child’s curriculum or exam board?”
+Ask how the tutor sees written work and invites the child to explain. A shared screen can be helpful, but watching the tutor solve every question gives limited evidence of learning. The child needs chances to attempt a fresh problem without being told each step.
 
-This matters especially for older students.
+For primary pupils, agree what a parent should help with and when to step back. Discuss equipment, session length, attention and practical access needs. A workable arrangement matters more than an impressive list of digital tools that the family cannot comfortably use.
 
-“Maths tutoring” is not specific enough when your child is preparing for:
+## Agree how progress and practice will be reviewed
 
-* GCSE
-* IGCSE
-* SEAG
-* HKDSE
-* SAT
-* IB
-* another international curriculum
+Ask what the initial learning priority would look like in observable terms. “Explain equivalent fractions with a diagram” is easier to review than “be much better at Maths.” Keep early work and compare it with a different task later, including something attempted independently.
 
-Even within IGCSE, for example, Cambridge and Pearson Edexcel have different assessment structures.
+The [EEF tuition review](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition) highlights targeted teaching, links with classroom learning and monitoring progress. Those principles inform useful questions; they do not guarantee an individual child's result. Ask how the tutor would change the plan if the current approach was not helping.
 
-The tutor should know exactly what your child is preparing for.
+## Understand the arrangement before committing
 
-If they never ask about the exam board, syllabus or level, that is worth questioning.
+Discuss fees, payment, scheduling, cancellations, practice and communication before paid lessons begin. Ask for the available terms clearly rather than infer them from another provider. Lesson frequency should follow the child's needs and a manageable family routine, not an automatic recommendation for the largest package.
 
-## 3. “What happens when my child doesn’t understand?”
-
-Listen carefully to this answer.
-
-Some children understand after one explanation.
-
-Others need:
-
-* a different example
-* a visual explanation
-* simpler numbers first
-* the topic broken into smaller steps
-* an earlier skill retaught
-
-A good tutor should be able to **change the explanation**, not simply repeat the same method louder or more slowly.
-
-Your child should feel comfortable saying:
-
-**“I still don’t understand.”**
-
-That sentence is useful information, not bad behaviour.
-
-## 4. “Will lessons be personalised?”
-
-One-to-one tutoring loses much of its value when every student receives exactly the same lesson.
-
-Ask whether lessons change according to:
-
-* recent test results
-* mistakes made during tutoring
-* upcoming school assessments
-* current weak topics
-* improvement over time
-
-If your child masters percentages quickly, there is little reason to spend another three lessons there because it appears next in a fixed programme.
-
-That time should move to something they actually need.
-
-## 5. “How will I know whether my child is improving?”
-
-You should not have to wait three months for another school report.
-
-Progress can show up in smaller ways first:
-
-* fewer repeated mistakes
-* stronger topic scores
-* more independent working
-* better past-paper performance
-* improved speed
-* more confidence attempting difficult questions
-
-Ask how the tutor monitors these things.
-
-The answer does not need to involve elaborate weekly reports.
-
-But there should be some way of knowing whether the lessons are working.
-
-## 6. “What should my child do between lessons?”
-
-One hour of tutoring cannot carry the entire week.
-
-A good tutor should normally be able to suggest focused practice between sessions.
-
-Not fifty random questions.
-
-Something connected to what was taught.
-
-For example:
-
-**“We worked on simultaneous equations today. Complete these six questions before Thursday so I can see whether the method has stuck.”**
-
-That is far more useful than generic homework.
-
-## 7. “How much tutoring does my child actually need?”
-
-Be wary of anyone who immediately tells every family they need three or four lessons a week.
-
-The answer should depend on the child.
-
-A student with one weak topic may need one session weekly.
-
-A Year 11 student with several gaps and an approaching exam may temporarily need more.
-
-Our guide on [how many hours of GCSE Maths tutoring a struggling student may need](https://otalearningstudio.com/blog/how-many-hours-gcse-maths-tutoring-struggling-student.html) explains why lesson frequency should follow the problem rather than a fixed package.
-
-## 8. Pay attention to your child after the lesson
-
-Parents sometimes focus so much on the tutor’s qualifications that they miss the most useful evidence:
-
-**their child.**
-
-After a few lessons, ask:
-
-**“Does Maths make more sense now?”**
-
-Not:
-
-**“Do you like your tutor?”**
-
-A student can like someone without learning much.
-
-You are looking for signs that they are beginning to:
-
-* explain methods more clearly
-* attempt questions independently
-* ask better questions
-* make fewer repeated mistakes
-
-That is what matters.
-
-## The cheapest tutor is not always the best value
-
-Neither is the most expensive.
-
-The real question is:
-
-**What is happening during the lesson?**
-
-A £15 lesson that repeatedly fixes the wrong problem is expensive.
-
-A more targeted lesson that helps your child finally understand something they have struggled with for months may offer far greater value.
-
-Choose based on the quality of the teaching and the fit with your child — not price alone.
-
-## Looking for an online Maths tutor for your child?
-
-At **OTA Learning Studio**, we begin by understanding the student before deciding what should be taught.
-
-We look at their current level, curriculum or exam board, recent performance and the areas where they are actually getting stuck.
-
-Lessons are then built around those needs rather than a one-size-fits-all programme.
-
-If you are considering online Maths tutoring but are not yet sure what kind of support your child needs, you can [book a free parent or student consultation](#consultation).
-
-You can tell us where your child is struggling, what they are currently studying and what you would like them to achieve.
-
-From there, the next step becomes much clearer.
+At OTA Learning Studio, you can [meet Taiwo](../index.html#about), read [parent feedback](../testimonials.html) and book a [free parent consultation](#consultation). We discuss the learner's goals, possible teaching priorities and paid lesson arrangements privately. The conversation helps you decide whether the approach suits your child before booking.

@@ -1,53 +1,56 @@
 ---
-title: How Often Should Your Child Have Maths Tutoring?
-seo_title: How Often Should Your Child Have Maths Tutoring?
-description: Choose a manageable Maths tutoring schedule based on learning gaps, school demands and independent practice rather than booking more sessions by default.
+title: Is one Maths lesson a week enough for my child
+seo_title: Is One Maths Lesson a Week Enough for Your Child
+description: Decide whether weekly Maths tutoring suits your child by checking the learning goal, practice, timetable and progress before booking extra sessions.
 date: 2026-10-09
+updated: 2026-10-15
 category: Maths lesson planning
 author: Taiwo Oloyede
-keywords: Maths lesson planning, online maths tutor, online lessons, tutoring class packages
+keywords: is one maths lesson a week enough, how often maths tutoring, weekly maths lessons for child, maths tutor sessions per week
 featured: false
 draft: false
 ---
 
-One lesson a week or two? Parents often ask this before a tutor has seen any work. The question matters because the schedule affects cost, family time and how much practice a child can realistically complete.
+**Updated 15 October 2026.**
 
-There is no responsible universal answer based only on age or a low grade. Frequency should follow the size of the gap, the learning goal and what happens between sessions. A timetable is useful only if it supports a connected sequence of teaching and practice.
+One Maths lesson a week can be a reasonable starting arrangement for some children, but the timetable alone does not tell you whether support will work. The learning goal, what happens during teaching and what the child can practise independently all matter. More appointments are not automatically the solution to slower progress.
 
-## Begin with the job the lessons need to do
+Before choosing a schedule, identify the job you want tutoring to do. Is your child missing one foundation skill, struggling across several topics, seeking additional challenge or preparing for a particular assessment? Those are different situations. A useful plan explains why the proposed frequency fits this learner.
 
-A child who understands school Maths but needs help with one recurring fraction misconception may need a different plan from a learner whose number foundations are affecting several topics. An upcoming exam adds another constraint, but urgency does not remove the need to teach prerequisites.
+## Start with one clear teaching priority
 
-Write the first goal in observable terms. For example, the child will compare fractions using a model and explain the comparison without prompting. For an older student, it might be choosing a suitable method for mixed equation problems.
+Consider an original primary example: your child can calculate 24 ÷ 4 but cannot find one quarter of 24. The arithmetic may be secure while the connection between fractions and equal groups needs teaching. A focused lesson can explore that connection through objects, drawings and explanation.
 
-A goal like improve everything makes it difficult to judge whether the schedule is appropriate. A specific priority lets the teacher explain what the lesson time will be used for.
+Compare this with a child who cannot divide 24 into equal groups and also finds multiplication facts uncertain. The plan may need to begin with those earlier ideas. One wrong fraction answer does not establish how many lessons are needed; hearing the explanation helps identify the starting point.
 
-## Leave room for independent practice
+Agree an observable goal, such as explaining and finding a quarter of an amount without prompts. For an older student, the priority might be choosing and checking a method for equations. Avoid a target so broad that nobody can tell whether the current schedule is helping.
 
-A session introduces, explores or repairs knowledge. Practice afterwards helps show what the student can use alone. If another lesson arrives before the child has tried anything independently, the tutor may have little evidence about what has stuck.
+## Make the days between lessons count
 
-For a learner with a manageable gap and time for short practice, a weekly lesson can be a reasonable starting arrangement. More frequent contact may be worth discussing when several prerequisites need attention or a deadline leaves limited time. Those are planning possibilities, not prescriptions.
+After teaching quarters, a short practice task could ask for one quarter of 20 and one quarter of 28, with a drawing for one answer. Later, ask for three quarters of 28. Can the child explain that one quarter is 7 and three quarters is 21?
 
-Our guide to [forgetting recently learned Maths](child-forgets-maths-learned-last-week.html) explains why revisiting ideas matters. The quality and placement of practice can matter as much as adding another appointment.
+This is a possible practice sequence, not a fixed homework prescription. Keep it appropriate to the child's readiness and other commitments. If the first independent attempt fails, save the working for the tutor. That evidence is more useful than a parent supplying all the steps so the homework looks complete.
 
-## Consider what the week already contains
+A weekly lesson leaves opportunities to revisit ideas across the week. Without any independent attempts, the next session may begin with very little information about what the learner can retain or apply. Discuss a manageable routine instead of relying on lesson attendance alone.
 
-List school homework, other lessons, activities and realistic rest time. A tired child may attend more sessions while participating less effectively. Choose a schedule they can sustain rather than the largest package that fits on paper.
+## Know when to discuss additional support
 
-Younger learners may also need practical help joining an online lesson and showing their work. Check that an adult can support the equipment when necessary without answering the questions.
+More frequent contact may be worth discussing when several prerequisite skills need teaching, the learner repeatedly loses the thread between sessions or an assessment leaves limited preparation time. First establish whether the teaching priority and practice are appropriate. Adding lessons to an unsuitable plan can simply repeat the same difficulty.
 
-Discuss session length as well as frequency. Ask how the available time will be divided between explanation, student attempts and review. The tutor should explain their lesson structure and available arrangements clearly.
+The [EEF review of individual tuition](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition) supports targeted teaching linked with ordinary classroom learning and monitored for impact. Its findings concern researched interventions and do not establish the ideal private tutoring package for every family. Use the evidence to ask about teaching quality and review, rather than treat any frequency as a guaranteed result.
 
-## Review the schedule using evidence
+## Check the whole family timetable
 
-Agree a review point after an initial period of teaching. Look at whether the learner begins more independently, makes fewer repeated errors and can explain a method on unfamiliar work. Do not rely only on whether they enjoyed the sessions or completed the homework.
+Consider school homework, clubs, other subjects, rest and adult availability for younger learners. A child who arrives exhausted may participate less effectively, even if the family has booked more support. Discuss session length as well as frequency and choose arrangements that can realistically be sustained.
 
-If progress is limited, investigate why before automatically increasing frequency. The starting topic may be wrong, practice may be too difficult, or the lesson may contain too much passive explanation.
+For online lessons, account for equipment and how work will be shown. At OTA Learning Studio, teaching takes place through Google Meet. Parents can help with joining and materials while giving the learner space to answer. An arrangement that works on paper still needs to work at home.
 
-The [EEF's individual tuition review](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition?search_term=tuition) emphasises targeted support, connection with ordinary teaching and monitoring progress. Research on school interventions does not establish an exact commercial package for every child, but these principles are useful questions to bring to a provider.
+## Review the decision using new work
 
-## Choose a package after the first conversation
+Agree when to revisit the schedule. Compare an early independent attempt with a different task later. Is the child beginning more readily, explaining the method and making fewer repeated errors? Enjoyment matters, but it should sit alongside evidence of learning.
 
-At OTA Learning Studio, we offer online Maths lessons and class packages discussed around the learner's needs and timetable. [Book a free consultation](#consultation) with recent work and the school or exam goal. We can explain a possible starting plan and the arrangements available.
+If progress is limited, discuss what should change: the starting point, explanation, practice, lesson length or frequency. Our [guide to choosing a Maths tutor](how-to-choose-online-maths-tutor-questions-parents-should-ask.html) offers further questions. A schedule should remain open to review as needs change.
 
-You should understand why a schedule is being suggested and what would lead to changing it. The aim is a learner who can do more without help. Sometimes that calls for additional teaching; sometimes it calls for better practice between the lessons already booked. A sensible plan leaves room to find out.
+## Discuss a starting plan privately
+
+Bring recent work and your available times to a [free parent consultation](#consultation). We can discuss teaching priorities, lesson options and fees privately before paid lessons are arranged. The aim is a manageable plan that helps your child do more independently, with a clear reason for each appointment.
