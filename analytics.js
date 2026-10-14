@@ -26,6 +26,12 @@
     window.gtag("config", MEASUREMENT_ID, { anonymize_ip: true });
   }
 
+  window.otaTrack = function (name, details) {
+    if (!document.querySelector('script[data-ota-analytics]')) return;
+    // Only fixed event metadata; never form answers, email, phone or message URLs.
+    window.gtag('event', name, Object.assign({ page_path: window.location.pathname }, details || {}));
+  };
+
   function removeBanner() {
     var banner = document.querySelector("[data-ota-consent]");
     if (banner) banner.remove();
@@ -75,7 +81,7 @@
     var eventName = eventNameForLink(link);
     if (!eventName) return;
     window.gtag("event", eventName, {
-      link_url: link.href,
+      link_url: link.href.split("?")[0].split("#")[0],
       link_text: (link.textContent || "").trim().slice(0, 100),
       page_path: window.location.pathname
     });

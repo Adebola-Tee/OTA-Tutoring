@@ -36,3 +36,13 @@ body.consultation-open { overflow: hidden; }
   .consultation-field-row { grid-template-columns: 1fr; }
 }
 @media (prefers-reduced-motion: reduce) { .consultation-panel { animation: none; } }
+
+.consultation-next[hidden] { display: none; }
+.consultation-next { margin: 0 25px 30px; padding: 18px; border: 1px solid #bfd9cc; border-radius: 12px; background: #edf8f2; color: #14213f; }
+.consultation-next h3 { margin: 0 0 8px; }
+.consultation-next p { font-size: 15px; line-height: 1.6; }
+.consultation-next a { color: #14213f; font-weight: 700; text-decoration: underline; }
+@media(max-width:560px) { .consultation-next { margin-inline:17px; } }
+
+.consultation-next button { border: 0; padding: 10px 0; color: #14213f; background: transparent; font: inherit; font-weight: 700; text-decoration: underline; cursor: pointer; min-height: 44px; }
+.choice-grid label span { min-height: 44px; display: flex; align-items: center; }

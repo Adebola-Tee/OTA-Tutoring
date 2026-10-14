@@ -59,14 +59,42 @@
   const subjectError = modal?.querySelector('[data-subject-error]');
   const whatsappNumber = '2348079675840';
   let returnFocus = null;
+  let started = false;
 
   if (!modal || !panel || !form) return;
+
+  // A first enquiry should not require two contact channels or an exam board.
+  ['phone', 'email', 'curriculum'].forEach((name) => {
+    const field = form.elements.namedItem(name);
+    if (!field) return;
+    field.required = false;
+    const label = field.closest('label');
+    label.querySelector('span')?.remove();
+    label.firstChild.textContent = label.firstChild.textContent.trim() + ' (optional) ';
+  });
+  form.querySelector('input[name="support"]').checked = true;
+  const note = form.querySelector('.consultation-privacy');
+  note.textContent = 'Next, WhatsApp opens with your message. Press Send there to contact Taiwo. Nothing is booked or paid for at this stage.';
+  form.insertAdjacentHTML('afterend', '<section class="consultation-next" hidden aria-live="polite"><h3>Your message is ready</h3><p>You still need to press Send in WhatsApp. Taiwo will then discuss suitable lesson times and confirm the fee before you book.</p><button type="button" class="consultation-reopen">Open WhatsApp again</button><p>Prefer email? <button type="button" class="consultation-email">Send this enquiry by email</button></p></section>');
+  const next = modal.querySelector('.consultation-next');
+  const track = (name) => window.otaTrack?.(name, { enquiry_method: 'whatsapp' });
+  form.addEventListener('input', () => {
+    if (!started) { started = true; track('consultation_start'); }
+  });
+
+  const aside = document.querySelector('.post-aside');
+  if (aside) {
+    const base = window.location.pathname.includes('/blog/') ? '../' : '';
+    aside.querySelector('p').textContent = 'Discuss the learner’s needs, suitable lesson times and the fee for paid online lessons with Taiwo. The consultation is free.';
+    aside.insertAdjacentHTML('beforeend', '<p class="consultation-trust-links"><a href="' + base + 'index.html#about">Meet your tutor</a> · <a href="' + base + 'testimonials.html">Parent feedback</a></p>');
+  }
 
   const openForm = (trigger) => {
     returnFocus = trigger;
     modal.hidden = false;
     document.body.classList.add('consultation-open');
     panel.focus();
+    track('consultation_open');
   };
 
   const closeForm = () => {
@@ -93,7 +121,14 @@
   });
 
   document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape' && !modal.hidden) closeForm();
+    if (modal.hidden) return;
+    if (event.key === 'Escape') closeForm();
+    if (event.key === 'Tab') {
+      const controls = [...panel.querySelectorAll('a[href], button, input, textarea, select, [tabindex="0"]')].filter((el) => !el.disabled && el.getClientRects().length);
+      const first = controls[0], last = controls[controls.length - 1];
+      if (event.shiftKey && (document.activeElement === first || document.activeElement === panel)) { event.preventDefault(); last?.focus(); }
+      else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first?.focus(); }
+    }
   });
 
   form.addEventListener('submit', (event) => {
@@ -117,7 +152,13 @@
       `Learner's needs/goals: ${data.get('message')}`
     ];
 
-    const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(lines.join('\n'))}`;
+    const enquiry = lines.filter((line) => !/^(Phone number|Email|Curriculum\/exam): (null)?$/.test(line)).join('\n');
+    const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(enquiry)}`;
+    next.querySelector('.consultation-reopen').onclick = () => window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
+    next.querySelector('.consultation-email').onclick = () => window.open('mailto:taiwo@otalearningstudio.com?subject=Tutoring%20enquiry&body=' + encodeURIComponent(enquiry), '_blank', 'noopener,noreferrer');
+    next.hidden = false;
+    track('consultation_handoff');
     window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
+    next.scrollIntoView({ block: 'nearest' });
   });
 })();
