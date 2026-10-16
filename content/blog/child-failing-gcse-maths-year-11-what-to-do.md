@@ -1,199 +1,56 @@
 ---
-
-title: My Child Is Failing GCSE Maths in Year 11 — What Should I Do Now?
-
-seo_title: My Child Is Failing GCSE Maths in Year 11 — What to Do
-
-description: Is your Year 11 child failing GCSE Maths? Learn what parents should do now, which topics to prioritise, how to use past papers and when extra tutoring may help.
-
+title: What parents should expect from GCSE Maths tutoring in Year 11
+seo_title: What parents should expect from GCSE Maths tutoring in Year 11
+description: Plan Year 11 GCSE Maths support around current evidence, priority skills, independent revision and mock feedback, including help for a learner below a pass.
 date: 2026-09-20
-
-category: GCSE Maths Advice
-
+updated: 2026-10-16
+category: GCSE Maths Tutoring
 author: Taiwo Oloyede
-
-keywords: child failing GCSE Maths Year 11, GCSE Maths help Year 11, how to pass GCSE Maths, GCSE Maths tutoring, Year 11 Maths revision, GCSE Maths grade 4, GCSE Maths Foundation, GCSE Maths revision plan
-
+keywords: Year 11 GCSE maths tutoring, child failing GCSE maths Year 11, online Year 11 maths tutor
 featured: false
-
 draft: false
-
 ---
 
-If your child has started **Year 11 and is currently failing GCSE Maths**, do not wait until the final few months before the exams to act.
+**Updated 16 October 2026.**
 
-A Grade 2 or 3 in an early mock does **not** tell you what your child is capable of achieving by the end of Year 11.
+Year 11 GCSE Maths tutoring needs a clear order of priorities. Parents should know what the student is learning next, why it matters and how it will be checked. An approaching examination makes the plan more focused; it does not make a promise to fix the entire course in a handful of lessons realistic.
 
-But it does tell you something important:
+If your child is currently below a pass, start with evidence rather than panic. Gather recent papers, the exam board, tier and school feedback. If they are aiming higher, bring that target too. The same Year 11 label can cover very different teaching needs.
 
-**there are gaps that need to be identified now.**
+## Establish the student's actual starting point
 
-The solution is not automatically more revision, more worksheets or longer study hours.
+A grade summarises an assessment, but it does not explain every mark lost. Look at attempted questions, unfinished working and blanks. A student who cannot choose an operation needs different support from one who selects it correctly and repeatedly miscalculates.
 
-The first job is finding out **why your child is losing marks**.
+Ask which papers and conditions produced the result. Work completed with notes or extensive prompting is different from an independent assessment. Use the school's interpretation alongside the student's working. Our [Grade 3 or 4 guide](gcse-maths-stuck-grade-3-or-4.html) explores how to turn a stalled result into a more specific teaching decision.
 
-## First, find out where your child actually stands
+## Choose an accessible skill with wider uses
 
-Ask for their most recent Maths paper or assessment.
+Consider this original example: a cuboid measures 8 cm by 5 cm by 3 cm. Its volume is 8 × 5 × 3 = 120 cubic centimetres. A student who adds the dimensions may need to understand the layers of unit cubes before practising the formula.
 
-Do not look only at the final grade.
+Now give a cuboid with volume 150 cubic centimetres, length 10 cm and width 5 cm. Its height is 150 ÷ 50 = 3 cm. The learner must recognise what is known and reverse the calculation. That changed task checks more than memorising length times width times height.
 
-Look at the questions.
+This work can connect arithmetic, multiplication, division, units and rearranging a relationship. It is not a claim that cuboids will appear on a particular paper. The example shows why a tutor should select priorities with useful connections instead of chasing predicted questions.
 
-Are marks being lost because your child:
+## Balance improvement with maintaining secure topics
 
-* does not understand the topic?
-* forgets basic methods?
-* struggles with Maths word problems?
-* makes frequent calculation mistakes?
-* leaves several questions unanswered?
-* runs out of time?
-* understands lessons but cannot apply the knowledge in exam questions?
+Repairing weak skills matters, but revision should also revisit methods the student can already use. Mixed questions help them decide which approach fits. A plan made entirely of difficult questions can leave accessible knowledge underpractised and make improvement harder to notice.
 
-These problems require very different solutions.
+Ask the tutor how priorities are reviewed. Once the learner can solve fresh volume questions independently, time can move towards another need while keeping some retrieval practice. Teaching should respond to evidence rather than remain fixed because a topic appears next in a package.
 
-A child struggling with fractions does not need the same intervention as a child who understands fractions but repeatedly misreads exam questions.
+## Use mock results to guide the next cycle
 
+Ask the school for the real mock schedule and feedback. Schools set their own arrangements. Before a mock, choose manageable teaching and practice goals. Afterwards, review what the student could do independently and where the process still stopped.
 
-## Check whether your child is taking Foundation or Higher Maths
+Our [mock preparation guide](gcse-maths-tutor-before-mocks.html) explains this cycle. A tutor should help interpret results without treating one fluctuating percentage as a universal forecast. [Official grading guidance](https://www.gov.uk/government/publications/gcse-and-a-level-grading-what-you-need-to-know/gcse-and-a-level-grading-what-you-need-to-know) explains why grade boundaries vary with assessment difficulty.
 
-This matters more than many parents realise.
+## Expect active lessons and realistic home practice
 
-For example, under the current AQA GCSE Mathematics specification, **Foundation Tier covers Grades 1–5**, while **Higher Tier covers Grades 4–9**. The qualification assesses Number, Algebra, Ratio and Proportion, Geometry and Measures, Probability and Statistics.
+In Google Meet lessons, the student needs opportunities to attempt questions and show working. Screen sharing can support explanations, but it should not replace the learner's own decisions. Agree a practical way to display paper or share suitable written work.
 
-Ask your child's school:
+Between sessions, set tasks the student can attempt without an adult teaching every step. Keep failed attempts for discussion. If the practice is consistently inaccessible, revisit the teaching or task selection before adding more hours. The wider timetable must still leave room for other subjects and rest.
 
-**Which tier are they currently entered for?**
+## Discuss the arrangement before committing
 
-**What grade are they working at?**
+At OTA Learning Studio, a [free consultation](#consultation) helps us discuss the course, immediate priorities and available times. Fees and paid lesson arrangements are agreed privately. You can [meet Taiwo](../index.html#about) and read [parent feedback](../testimonials.html) beforehand.
 
-**What grade does the teacher believe is realistic?**
-
-If your child is repeatedly scoring below the expected level on Higher papers, there may need to be a conversation about whether the current tier is appropriate.
-
-That decision should be made with the school — not from one disappointing test result.
-
-## Stop revising everything equally
-
-One of the biggest Year 11 mistakes is opening a revision guide at page one and trying to work through the entire GCSE Maths syllabus in order.
-
-Instead, divide topics into three groups:
-
-**Secure:** your child can answer these confidently.
-
-**Inconsistent:** sometimes correct, sometimes wrong.
-
-**Weak:** your child does not understand the method.
-
-Start with the **inconsistent topics**.
-
-They often provide the quickest opportunity to gain marks because the foundation is already there.
-
-Then work systematically through the genuinely weak areas.
-
-## Which GCSE Maths topics should parents watch closely?
-
-The exact priorities will depend on your child's paper, but common areas worth checking include:
-
-* fractions, decimals and percentages
-* ratio and proportion
-* negative numbers
-* algebra and equations
-* sequences
-* graphs
-* area, perimeter and volume
-* angles
-* probability
-* averages and data
-* multi-step problem-solving
-
-Do not assume that because your child completed a topic in Year 9 or Year 10, they can still answer examination questions on it.
-
-Test it.
-
-## Past papers should diagnose problems — not just produce scores
-
-Past papers are extremely useful, but only when they are reviewed properly.
-
-After completing a paper, do not simply write:
-
-**42/80**
-
-and move to the next one.
-
-For every lost mark, identify the reason.
-
-For example:
-
-**Fractions — did not know the method**
-
-**Algebra — sign error**
-
-**Ratio — misunderstood the question**
-
-**Geometry — forgot the formula**
-
-**Question 18 — knew it but rushed**
-
-After several papers, patterns appear.
-
-Those patterns should determine the next week's revision.
-
-If you are unsure what a GCSE Maths score actually means, our [GCSE Maths grade boundaries guide](https://otalearningstudio.com/blog/gcse-grade-boundaries-2026-explained.html) can help put mock and past-paper results into context.
-
-## What should GCSE Maths revision look like in Year 11?
-
-It does not need to mean two hours of Maths every evening.
-
-For many students, **30–45 minutes of focused work several times a week** is far more productive.
-
-A simple routine could be:
-
-**Session 1:** learn or reteach one weak topic
-
-**Session 2:** practise questions on that topic
-
-**Session 3:** mixed GCSE questions
-
-**Weekend:** timed paper section followed by corrections
-
-The important part is consistency.
-
-Your child should gradually stop making the **same mistakes**.
-
-## When should you consider a GCSE Maths tutor?
-
-Extra support may be useful when your child:
-
-* has been stuck around the same grade for months
-* says classroom Maths moves too quickly
-* has several gaps from earlier school years
-* understands topics during lessons but struggles in exams
-* has lost confidence in Maths
-* is working hard but their scores are not improving
-
-The right tutor should not simply give your child another pile of worksheets.
-
-They should be able to identify **where the breakdown is happening**, reteach those concepts clearly and then show the student how to apply them to GCSE questions.
-
-## There is still time — but use it properly
-
-Year 11 can change quickly.
-
-A student who is currently working below a Grade 4 does not need to master the entire syllabus tomorrow.
-
-They need to start closing **one important gap at a time**.
-
-The earlier those gaps are identified, the more time there is for teaching, practice, past papers and exam technique before the final GCSE examinations.
-
-## Is your child currently struggling with GCSE Maths?
-
-At **OTA Learning Studio**, we provide personalised one-to-one GCSE Maths tuition for students who need more than generic revision.
-
-We look at the student's current level, identify the topics and exam skills costing them marks, and build lessons around those specific weaknesses.
-
-If your child is in **Year 11 and currently receiving Grade 2s, 3s or inconsistent mock results**, you do not have to guess what they should be working on next.
-
-[Book a free parent or student consultation](#consultation).
-
-We can discuss where your child is currently struggling and determine what needs to change to give them a stronger chance of reaching their GCSE Maths target.
+For a learner below a pass, the first goal is a usable next method, not a frightening list of everything missing. For any Year 11 student, parents should be able to see what support is doing and what the next review will check.

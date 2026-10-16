@@ -1,61 +1,54 @@
 ---
-title: AQA vs Edexcel GCSE Maths - Why Your Child’s Exam Board Matters When Choosing a Tutor
-seo_title: AQA vs Edexcel GCSE Maths - Why Your Child’s Exam Board Matters Wh
-description: Concerned about AQA vs Edexcel GCSE Maths tutor? Learn what to diagnose first, how focused practice helps and when personalised online tutoring makes sense.
+title: AQA or Edexcel GCSE Maths why your tutor should know the exam board
+seo_title: AQA or Edexcel GCSE Maths why your tutor should know the exam board
+description: Choose GCSE Maths support that matches AQA or Pearson Edexcel through the correct specification, tier, paper practice and review of written methods.
 date: 2026-09-28
+updated: 2026-10-16
 category: GCSE Maths Tutoring
 author: Taiwo Oloyede
-keywords: AQA vs Edexcel GCSE Maths tutor, online Maths tutor, personalised Maths tutoring, GCSE Maths help, OTA Learning Studio
+keywords: AQA or Edexcel GCSE Maths tutor, GCSE maths exam board, AQA 8300 Edexcel 1MA1 tutoring
 featured: false
 draft: false
 ---
 
-Parents often see the score first. A useful tutor looks underneath it. Two students with the same grade may need completely different lessons, so the right first step is diagnosis, not a larger pile of worksheets.
+**Updated 16 October 2026.**
 
-For this question, the useful diagnosis is **whether teaching and practice reflect the correct paper structure, wording and available resources**. That is more precise than saying the learner needs to “work harder” or “do more Maths”. It gives parents and teachers something that can actually be taught, practised and measured.
+Your child's exam board matters when choosing GCSE Maths tutoring because the resources, papers and marking guidance must match the qualification they are taking. The underlying mathematics connects across courses, but that does not make every practice paper the right assessment preparation.
 
-## Start with the exam the student is really taking
+Ask the school for the board, qualification name and tier before arranging support. AQA GCSE Mathematics is identified by 8300; Pearson Edexcel GCSE Mathematics by 1MA1. A revision book with the right board name but a different qualification can still be unsuitable.
 
-GCSE Maths rewards accurate methods, reasoning and problem solving across number, algebra, ratio, geometry, probability and statistics. On AQA, for example, students sit one non-calculator paper and two calculator papers; Foundation and Higher also lead to different available grade ranges. The [AQA GCSE Mathematics specification](https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/specification-at-a-glance) is the safest reference for the current course structure and expectations.
+## Start with the course code rather than a guess
 
-Generic revision can create false confidence. A student may manage familiar exercises but still lose marks when wording changes or several topics appear together.
+The [AQA specification overview](https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/specification-at-a-glance) and [Pearson Edexcel GCSE Maths page](https://qualifications.pearson.com/en/qualifications/edexcel-gcses/mathematics-2015.html) are official starting points. Confirm whether your child is taking England's GCSE or an International GCSE course. “Edexcel Maths” alone is not enough detail.
 
-## What is probably happening
+Bring a recent school paper or course information to the first conversation. If the school is still reviewing tier entry, say so. A tutor can discuss current learning needs while asking you to confirm the assessment arrangements, instead of quietly building a programme around an assumption.
 
-The visible mistake is not always the first mistake. A wrong answer near the end of a question may begin with weak fraction knowledge, a sign error, an unrecognised relationship or a rushed reading of the command. When every error is labelled “careless”, the child receives no usable correction.
+## Expect mathematics teaching before paper technique
 
-Look at three pieces of evidence: a recent marked assessment, independent classwork and a short mixed task completed without notes. Compare them for patterns. Does the student know the method but choose it at the wrong time? Can they start alone? Do they show enough working to recover method marks? Are mistakes concentrated in one prerequisite or spread across the course?
+Board knowledge does not replace a clear explanation. If the student cannot interpret a percentage change, memorising the appearance of a familiar paper will not resolve the difficulty. Useful tutoring combines secure understanding with appropriate assessment practice.
 
-The first priority should be to **confirm the exact specification, tier and recent school evidence before lessons begin**. Keep that priority in place for long enough to see whether performance changes on new questions, not just on corrections the learner remembers.
+Here is an original example: a bicycle costs £180 and rises in price by 15%. Ten per cent is £18 and five per cent is £9, so the increase is £27 and the new price is £207. Multiplying 180 by 1.15 provides another method. Ask the student what the multiplier represents, not only which calculator buttons to press.
 
-## A better practice cycle
+A reverse question needs a different decision. If £207 is the price after a 15% increase, dividing by 1.15 gives £180. Subtracting 15% of £207 uses the wrong base. A tutor should teach that distinction, then select course appropriate questions to check it in unfamiliar wording.
 
-Productive Maths practice is more than answering and marking. We recommend a simple cycle:
+## Use marking guidance to review visible methods
 
-1. identify one precise weakness from real work
-2. reteach the idea and connect it to earlier knowledge
-3. complete guided examples while explaining each decision
-4. attempt board-specific questions alongside transferable mathematical reasoning
-5. correct the reasoning, then retest it several days later
+Official mark schemes help the tutor review what a particular question awards credit for. The student should write an equation, calculation or relationship that makes their method understandable. A correct answer can be checked; an unfinished attempt can reveal where the process stopped.
 
-That retest matters. A student may understand a correction with the teacher beside them and still be unable to reproduce the thinking alone. Progress means the method survives a new question and a different context.
+Do not assume every question awards a method mark simply because some working appears. The relevant mark scheme and the actual mathematics matter. The tutor should use this information to improve the student's reasoning and presentation, rather than train them to write arbitrary lines for imagined marks.
 
-## What parents should notice over the next few weeks
+## Practise under the right conditions when ready
 
-Do not measure improvement only by the next headline grade. First look for earlier signs: the student starts questions with less hesitation, chooses methods more accurately, shows clearer working and repeats fewer of the same errors. Confidence should come from evidence of competence, not from constant reassurance.
+Confirm which paper allows a calculator and follow the instructions of the selected material. For both AQA 8300 and Edexcel 1MA1, the qualification includes non calculator and calculator papers. Your tutor should help with both mental or written methods and sensible calculator use.
 
-Ask the student to explain what changed in their approach. “I did lots of questions” is not enough. A stronger answer sounds like, “I now check whether the question is asking for a percentage change or an original amount,” or, “I draw the relationship before forming the equation.” Specific language shows that learning is becoming transferable.
+Start with explanation and independent practice when a topic is unfamiliar. Later, timed questions can test decision making and pacing. Avoid turning every early lesson into a full timed paper when the learner cannot yet explain the method being assessed. Our [first lesson guide](online-gcse-maths-tutoring-first-lesson.html) shows a more focused starting sequence.
 
-## How our online Maths lessons work
+## Do not choose a board based on online rumours
 
-At **OTA Learning Studio**, we provide personalised online GCSE Maths tutoring for students in the UK and international school systems. We begin with the learner’s actual work, curriculum, current level and target. Our lessons then focus on the smallest set of changes most likely to improve understanding and marks.
+A tutor should not promise that switching board will produce an easier grade or that they know which questions will appear. School entry arrangements, current teaching and the learner's evidence need to guide decisions. Discuss any proposed course change with the school or exam centre.
 
-Students receive live teaching, guided practice, independent application and direct feedback. We also offer structured lesson packages, so families can choose consistent support instead of arranging disconnected one-off sessions. The aim is not to rush through every topic; it is to help the learner understand what to do, why it works and how to recognise it independently in an exam.
+[Official grading guidance](https://www.gov.uk/government/publications/gcse-and-a-level-grading-what-you-need-to-know/gcse-and-a-level-grading-what-you-need-to-know) explains that grade boundaries reflect assessment difficulty. A percentage from one paper is not a universal future grade. Compare learning evidence carefully instead of ranking boards by isolated boundary numbers.
 
-You may also find [Online GCSE Maths Tutoring: What Parents Should Expect From the First Lesson](https://otalearningstudio.com/blog/online-gcse-maths-tutoring-first-lesson.html) useful when deciding what effective support should look like.
+## Ask about the actual teaching plan
 
-## When tutoring becomes the sensible next step
-
-Targeted support is worth considering when the same gaps survive school revision, the student cannot explain how to improve, confidence is dropping or the course is moving faster than foundations can recover. Starting earlier gives lessons time to build independence; it should not create permanent dependence on a tutor.
-
-[Book a free consultation](#consultation) with **OTA Learning Studio**. We will discuss the student’s course, recent performance, goals and timetable, then explain the lesson package and starting point that make sense for them.
+Bring your child's board, tier and recent working to a [free parent consultation](#consultation) with OTA Learning Studio. We discuss a possible starting priority, Google Meet lesson arrangements and the fee privately before paid support begins. Ask how the resources and progress checks would fit your child's confirmed course.

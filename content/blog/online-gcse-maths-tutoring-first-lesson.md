@@ -7,7 +7,7 @@ description: Choosing an online GCSE Maths tutor? See a worked lesson example, h
 
 date: 2026-09-20
 
-updated: 2026-10-14
+updated: 2026-10-16
 category: GCSE Maths Tutoring
 
 author: Taiwo Oloyede
@@ -19,7 +19,7 @@ featured: false
 draft: false
 ---
 
-**Updated 14 October 2026.**
+**Updated 16 October 2026.**
 
 Choosing an online GCSE Maths tutor is easier when you know what the first lesson should actually involve. At OTA Learning Studio, we start with the learner's recent work and teach from the difficulty we find. Your child should do Maths, explain decisions and attempt something independently, rather than spend the whole session watching a presentation.
 
@@ -29,7 +29,7 @@ A [free parent consultation](#consultation) comes before paid lessons. We discus
 
 A recent school assessment is useful even when the result was disappointing. Keep the original working, corrections and unanswered questions. Tell us the exam board, Foundation or Higher tier and any school targets. If you are unsure about the tier, ask the school rather than guessing from a practice book.
 
-For example, [AQA's GCSE Mathematics specification](https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/specification-at-a-glance) distinguishes Foundation and Higher assessment. We use the learner's actual course when choosing questions. A Year 10 student building foundations and a Year 11 student preparing for a resit can need different plans, despite sharing the GCSE label.
+For example, [AQA's GCSE Mathematics specification](https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/specification-at-a-glance) distinguishes Foundation and Higher assessment. We use the learner's actual course when choosing questions. A Year 10 student building foundations and a Year 11 student preparing for summer exams can need different plans, despite sharing the GCSE label. Our [GCSE tutor selection guide](how-to-choose-online-gcse-maths-tutor.html) explains what else to ask before booking.
 
 ## Expect a short check followed by teaching
 
