@@ -24,7 +24,7 @@
               <label>Country or region <span>*</span><input type="text" name="country" autocomplete="country-name" placeholder="e.g. United Kingdom" required></label>
               <label>Student’s year or grade <span>*</span><input type="text" name="year" placeholder="e.g. Year 10 / Grade 9" required></label>
             </div>
-            <label>Curriculum or exam <span>*</span><input type="text" name="curriculum" placeholder="e.g. GCSE, IGCSE, IB, SAT" required></label>
+            <label>Curriculum or exam <span>*</span><input type="text" name="curriculum" placeholder="e.g. GCSE, IGCSE, ISEE, IB, SAT" required></label>
             <fieldset data-subject-group>
               <legend>Which subject(s)? <span>*</span></legend>
               <div class="choice-grid">
@@ -35,7 +35,7 @@
                 <label><input type="checkbox" name="subjects" value="Physics"><span>Physics</span></label>
                 <label><input type="checkbox" name="subjects" value="General Science"><span>General Science</span></label>
                 <label><input type="checkbox" name="subjects" value="Computer Science / Coding"><span>Computer Science / Coding</span></label>
-                <label><input type="checkbox" name="subjects" value="SAT / admissions preparation"><span>SAT / Admissions</span></label>
+                <label><input type="checkbox" name="subjects" value="SAT / ISEE / admissions preparation"><span>SAT / ISEE / Admissions</span></label>
                 <label><input type="checkbox" name="subjects" value="Other"><span>Other</span></label>
               </div>
               <p class="consultation-error" data-subject-error hidden>Please select at least one subject.</p>
