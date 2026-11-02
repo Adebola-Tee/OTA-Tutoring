@@ -58,6 +58,7 @@
   const form = modal?.querySelector('[data-consultation-form]');
   const subjectError = modal?.querySelector('[data-subject-error]');
   const whatsappNumber = '2348079675840';
+  const directWhatsAppUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent('Hello Taiwo, I found OTA Learning Studio and would like to ask about online lessons for a learner.')}`;
   let returnFocus = null;
   let started = false;
 
@@ -86,7 +87,31 @@
   if (aside) {
     const base = window.location.pathname.includes('/blog/') ? '../' : '';
     aside.querySelector('p').textContent = 'Discuss the learner’s needs, suitable lesson times and the fee for paid online lessons with Taiwo. The consultation is free.';
+    const formButton = aside.querySelector('a[href="#consultation"]');
+    formButton.textContent = 'Tell me about the learner →';
+    const quickLink = document.createElement('a');
+    quickLink.className = 'consultation-quick-link';
+    quickLink.href = directWhatsAppUrl;
+    quickLink.target = '_blank';
+    quickLink.rel = 'noopener noreferrer';
+    quickLink.textContent = 'Or ask Taiwo on WhatsApp now →';
+    formButton.after(quickLink);
     aside.insertAdjacentHTML('beforeend', '<p class="consultation-trust-links"><a href="' + base + 'index.html#about">Meet your tutor</a> · <a href="' + base + 'testimonials.html">Parent feedback</a></p>');
+    const hero = document.querySelector('.post-hero-inner');
+    if (hero) {
+      const prompt = document.createElement('p');
+      prompt.className = 'post-quick-enquiry';
+      const link = document.createElement('a');
+      link.href = directWhatsAppUrl;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.textContent = 'Ask Taiwo about online lessons on WhatsApp →';
+      prompt.append(link);
+      const explanation = document.createElement('span');
+      explanation.textContent = ' Free to ask. Lesson options and fees are discussed before you decide.';
+      prompt.append(explanation);
+      hero.append(prompt);
+    }
   }
 
   const openForm = (trigger) => {
