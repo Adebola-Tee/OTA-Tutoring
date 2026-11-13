@@ -7,6 +7,7 @@ seo_title: January 2027 IAL Hong Kong Registration and Exam Preparation
 description: January 2027 IAL registration in Hong Kong has closed. Check your completed entry, cash in code and UCI, then plan Maths or Science preparation.
 
 date: 2026-09-18
+updated: 2026-11-13
 
 category: Pearson Edexcel IAL Advice
 
@@ -20,9 +21,9 @@ draft: false
 
 ---
 
-**Updated 14 October 2026:** The normal and late-entry deadlines below have passed. This guide remains available for candidates checking their completed entry and preparing for the January examinations. Confirm individual arrangements with HKEAA or your centre.
+**Updated 13 November 2026:** The Hong Kong normal and late-entry windows below have passed. If you registered, check your confirmation, entered units, cash-in request and candidate details with HKEAA or your centre. Then use the [official January 2027 IAL final timetable](https://qualifications.pearson.com/content/dam/pdf/Support/Examination-timetables-for-International-Advanced-Levels/ial-january-2027-final.pdf) to put your own units into a revision calendar. This guide keeps the registration history for reference; a tutoring booking cannot amend an exam entry.
 
-Already registered? Start with our [online IAL Maths tutoring guide](online-edexcel-ial-maths-tutor-hong-kong-january-2027.html) or [IAL Chemistry tutoring guide](online-edexcel-ial-chemistry-tutor-hong-kong.html). You can also [book a free parent or student consultation](#consultation) to discuss paid online lessons, entered units and availability in Hong Kong time.
+Already registered and choosing teaching support? Start with our [online IAL Maths tutoring guide](online-edexcel-ial-maths-tutor-hong-kong-january-2027.html) or [IAL Chemistry tutoring guide](online-edexcel-ial-chemistry-tutor-hong-kong.html). You can also [book a free parent or student consultation](#consultation) to discuss paid online lessons, your actual entered units and availability in Hong Kong time. Bring one recent piece of work so we can identify a useful teaching priority.
 
 The normal registration window closed on **18 September 2026 at 5:30 p.m. Hong Kong time**.
 
@@ -92,11 +93,11 @@ Access-arrangement requests, including modified papers, also close on **25 Septe
 
 Candidates should therefore check their entered subjects and units carefully before the registration window closes.
 
-## Check the January 2027 timetable before registering
+## Check the January 2027 timetable for your entered units
 
 The January examination series runs from **8–25 January 2027**.
 
-HKEAA specifically advises candidates to check the Pearson Edexcel examination timetable before submitting their entry because examination dates cannot simply be rearranged to suit individual schedules.
+HKEAA advises candidates to check the Pearson Edexcel timetable because examination dates cannot simply be rearranged to suit individual schedules. Registered candidates should now compare the final timetable with their entry confirmation and ask the centre promptly about any discrepancy.
 
 Students sitting several units should check for:
 
@@ -105,7 +106,7 @@ Students sitting several units should check for:
 * travel time between examination centres
 * whether all required units have actually been entered
 
-Do this before payment rather than discovering a problem later.
+Keep the confirmed entry and exam arrangements together so that a mismatch is raised with the centre rather than assumed away.
 
 ## Registration is done — what should happen next?
 
@@ -117,11 +118,7 @@ For subject-specific preparation, start with the guide that matches your needs:
 * [January IAL Chemistry revision](edexcel-ial-chemistry-january-2027-revision-tutor.html)
 * [Finding online IAL Physics support](online-edexcel-ial-physics-tutor-hong-kong-january-2027.html)
 
-January may still feel far away.
-
-It is not.
-
-Once registration is complete, students have only a few months to turn weak topics into reliable exam marks.
+Once registration is complete, use the remaining weeks to turn weak topics into reliable methods and check the dates of each entered unit.
 
 This is the point to identify:
 
@@ -130,7 +127,7 @@ This is the point to identify:
 * papers where timing is a problem
 * subjects where past-paper scores are still below target
 
-Waiting until December to begin serious preparation can make the final weeks unnecessarily stressful.
+Waiting until December to identify the weakest topics can make the final weeks unnecessarily stressful.
 
 ## Preparing for Pearson Edexcel IAL January 2027?
 

@@ -1,9 +1,9 @@
 ---
-title: November GCSE Maths Resit Dates and What to Do Before Your Papers
-seo_title: November GCSE Maths Resit Dates and What to Do Before Your Papers
-description: Check November 2026 GCSE Maths dates, board differences and confirmed entry details, then plan useful revision before each paper.
+title: November 2026 GCSE Maths Resit Dates and What Happens Next
+seo_title: November 2026 GCSE Maths Resit Dates and Results
+description: The November 2026 GCSE Maths resit papers have finished. Check your board's results arrangements and plan useful Maths support while you wait.
 date: 2026-09-01
-updated: 2026-11-01
+updated: 2026-11-13
 category: GCSE Advice
 author: Taiwo Oloyede
 keywords: November GCSE Maths resit dates 2026, GCSE resit timetable, GCSE Maths resit tutor
@@ -11,44 +11,32 @@ featured: false
 draft: false
 ---
 
-**Updated 1 November 2026.** November GCSE Maths papers are now days away. For AQA, Pearson Edexcel and OCR, the scheduled dates are **4, 6 and 9 November 2026**. Check your personal timetable for your board, paper code, tier, venue and reporting time.
+**Updated 13 November 2026.** The scheduled November GCSE Maths papers for AQA, Pearson Edexcel and OCR were **4, 6 and 9 November 2026**. This sitting has finished. Keep your candidate details and check your own centre and exam board for results arrangements. [AQA lists 13 January 2027](https://www.aqa.org.uk/exams-administration/results-days) as its November GCSE results day; confirm the date that applies to your entry.
 
-Already entered and looking for teaching support? [Book a free consultation](#consultation) to discuss focused online Maths lessons. Please include the exam board, Foundation or Higher tier, and a recent piece of work. A tutoring enquiry does not create an exam entry or reserve an exam seat.
+Waiting for a result and unsure what comes next? [Book a free consultation](#consultation) to discuss focused online Maths teaching. Please bring your exam board, Foundation or Higher tier, and a recent piece of work. A tutoring enquiry cannot alter a result or create an exam entry.
 
-## Check the paper rather than just the date
+## Check which papers you took
 
-The same date does not mean the same calculator rules across boards. AQA and Edexcel have a non calculator first paper followed by two calculator papers. OCR uses calculator papers first and last, with its non calculator paper in the middle. Follow the code on your own entry documents.
+The three common dates did not mean identical papers. AQA and Pearson Edexcel scheduled a non calculator first paper followed by two calculator papers. OCR placed its non calculator paper in the middle. Your statement of entry and centre documents identify your board and tier. The [AQA timetable](https://www.aqa.org.uk/exams-administration/dates-and-timetables), [Pearson timetable page](https://qualifications.pearson.com/en/support/support-topics/exams/exam-timetables.html) and [OCR timetable](https://www.ocr.org.uk/Images/748823-november-2026-final-exam-timetable-gcse.pdf) are official starting points.
 
-Use [AQA's confirmed November timetable](https://www.aqa.org.uk/files/cec4fc90-997e-4da1-b3c2-e217c0e58fdb/7f9db72615b207c4a899032ba0c5c37e166fd5f8.pdf), [Pearson's exam timetable page](https://qualifications.pearson.com/en/support/support-topics/exams/exam-timetables.html) or [OCR's final timetable](https://www.ocr.org.uk/Images/748823-november-2026-final-exam-timetable-gcse.pdf) to verify the board information. Your centre confirms arrival arrangements. Do not treat a general online calendar as your candidate instructions.
+There is little value in reconstructing every answer from a social media discussion. Such discussions may mix tiers, boards and remembered questions. Write down the topics you found difficult while they are fresh, then leave marking to the exam board.
 
-## The standard entry deadline has passed
+## The entry deadline is history, but keep your records
 
-The previously advertised standard entry deadline was 4 October. On 1 November, the useful question is whether your centre has already confirmed your entry. Find that confirmation now rather than assuming a college discussion or tutoring booking completed registration.
+The standard entry deadline was 4 October 2026. The useful task now is to retain your candidate number, centre details and the route by which your centre will give you the result. If you were absent or have an entry concern, contact the centre directly. A tutor cannot confirm entries, arrange special consideration or decide eligibility for a future sitting.
 
-Without confirmation, contact the centre directly about your situation. Only the centre can say whether it can still process anything, what charges apply and whether the necessary arrangements are available. We cannot promise a late entry. November eligibility also needs checking with the centre; this is not an unrestricted extra sitting for every school year.
+If you are planning another attempt, ask the centre what options apply to your circumstances and when you must decide. Do not pay for another course or entry on the assumption that one particular exam window is available to everyone.
 
-## Use the remaining days to protect accessible marks
+## Use the waiting period to understand what changed
 
-Choose a small number of recurring mistakes from a recent paper. A student who loses marks on fraction arithmetic, substitution and reading graphs needs a different plan from one who completes routine work but cannot organise longer problems. The paper should decide the priorities.
+A result tells you how the entire sitting was marked; it does not show why every individual method worked or failed. Choose a recent practice question and ask the learner to show their own steps. A parent might notice a pattern: sound arithmetic but a weak interpretation of words, or a correct setup followed by mistakes with negative numbers.
 
-Here is an original revision check. A price of £60 rises by 10%, then falls by 10%. The intermediate value is £66 and the final value is £59.40. The second percentage uses a different starting amount. Ask the learner to explain that change before attempting a new version with different numbers.
+For example, a £60 price rises by 10% and then falls by 10%. The intermediate value is £66 and the final value is £59.40. The second percentage uses a new starting amount. If the learner says the two changes cancel, ask them to identify each starting value before attempting a different example independently. That is a more useful teaching target than simply doing more worksheets.
 
-One accurate explanation followed by an independent attempt is useful evidence. Copying a worked answer repeatedly can look productive while leaving the underlying decision unresolved. Our [final days revision guide](gcse-maths-resit-tutor-final-month-november-2026.html) develops this approach.
+## Decide what support would actually change
 
-## Plan the gaps between the papers
+Some students need regular Maths teaching beyond the resit; others have a narrow issue with timing, calculator use or a small number of topics. A good first discussion should establish the current level, the next educational goal and the evidence of difficulty. It should not promise a particular grade before looking at the work.
 
-After each paper, take a proper break. Then review a short, balanced selection of topics for the remaining assessments. A topic appearing once does not guarantee it cannot appear again. Avoid spending the entire evening reconstructing answers from social media or hunting for supposed predictions.
+Our [guide to learning after a November GCSE Maths resit](after-november-gcse-maths-resit-2026-results-next-steps.html) gives a practical plan for the waiting period. If your child is working towards a future GCSE sitting, our [guide to choosing an online GCSE Maths tutor](how-to-choose-online-gcse-maths-tutor.html) helps you ask useful questions.
 
-For a calculator session, practise with the actual approved device you will bring. Check brackets, powers, fractions and negative inputs, and estimate answers before accepting the display. For a non calculator session, keep arithmetic steps legible enough to find errors.
-
-## Keep practical arrangements off the worry list
-
-Put the timetable, permitted equipment and travel plan together before the night of the exam. Check any approved access arrangements with the centre. A learner who is already anxious benefits from knowing where to go and what happens on arrival.
-
-Parents can help by asking one useful question: which mistake can you now correct independently? That gives revision a concrete purpose without turning every conversation into a demand for a particular grade.
-
-## Discuss a realistic tutoring priority
-
-At OTA Learning Studio, we can use a recent attempt to discuss the most useful teaching focus for the time remaining. Lessons take place on Google Meet, with fees and suitable times agreed privately before booking. Near an exam, availability must be confirmed rather than assumed.
-
-[Request a free consultation](#consultation) with your board, tier, target and paper dates. We will discuss what paid support can reasonably address. After the resits, the same evidence can guide longer term learning instead of letting useful corrections disappear with the exam timetable.
+At OTA Learning Studio, lessons are online via Google Meet. We discuss fees, scheduling and an appropriate teaching focus before paid lessons begin. [Request a free consultation](#consultation) with the board, tier, a recent attempt and the learner's next goal. The conversation helps you decide whether tutoring is appropriate while the centre remains your source for exam administration.
